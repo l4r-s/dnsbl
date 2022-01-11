@@ -1,4 +1,5 @@
 import os
+import sys
 import subprocess
 
 all_hosts_file = 'all-hosts.txt'
@@ -46,11 +47,13 @@ for script in os.listdir('sources'):
     process_list.append({ 'script': script, 'proc': subprocess.Popen([ 'python', 'sources/' + script ]) })
 
 # wait for all sources to finish
+script_failed = False
 for p in process_list:
     p['proc'].wait()
 
     if p['proc'].returncode != 0:
         print('ERROR - script {} failed!'.format(p['script']))
+        script_failed = True
 
 ##
 # uniq hosts.txt file
@@ -92,3 +95,7 @@ for l in all_hosts.readlines():
 unbound.close()
 hosts.close()
 
+if script_failed:
+    sys.exit(1)
+
+sys.exit(0)
