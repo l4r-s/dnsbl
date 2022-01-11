@@ -2,9 +2,9 @@ import os
 import subprocess
 from utils import *
 
-all_hosts_file = 'data/all-hosts.txt'
-unbound_hosts_file = 'data/unbound.txt'
-hosts_file = 'data/hosts.txt'
+all_hosts_file = 'all-hosts.txt'
+unbound_hosts_file = 'unbound.conf'
+hosts_file = 'hosts'
 
 # get all sources
 process_list = []
@@ -23,9 +23,6 @@ if os.path.exists(all_hosts_file):
     os.remove(all_hosts_file)
 
 for hf in os.listdir('data'):
-    if '-hosts' not in hf:
-        continue
-
     f = open('data/' + hf, 'r')
     for l in f.readlines():
         if not is_whitelist(l):
