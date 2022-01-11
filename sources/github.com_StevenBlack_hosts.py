@@ -2,9 +2,6 @@ import os
 import sys
 import requests
 
-sys.path.insert(1, os.path.join(sys.path[0], '..'))
-from utils import *
-
 url = 'https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts'
 
 file_name = os.path.basename(__file__)
@@ -19,6 +16,8 @@ if os.path.exists(hosts_file):
     os.remove(hosts_file)
 
 local_part = True
+
+f = open(hosts_file, 'a')
 for line in r.iter_lines():
     s = line.decode("utf-8")
 
@@ -31,6 +30,7 @@ for line in r.iter_lines():
     if s.startswith('#') or s == '':
         continue
 
-    add_uniq_line(s.split('\t')[-1] + '\n', hosts_file)
+    f.write(s.split('\t')[-1] + '\n')
 
+f.close()
 sys.exit(0)

@@ -1,12 +1,46 @@
 import os
 import subprocess
-from utils import *
 
 all_hosts_file = 'all-hosts.txt'
 unbound_hosts_file = 'unbound.conf'
 hosts_file = 'hosts'
 
+##
+# helpers
+##
+def is_whitelist(domain):
+    whitelist = False
+
+    if os.path.exists('whitelist.txt'):
+        f = open('whitelist.txt', 'r')
+        for l in f.readlines():
+            if domain.rstrip('\n') == l.rstrip('\n'):
+                whitelist = True
+                break
+        f.close()
+
+    return whitelist
+
+def add_uniq_line(line, filepath):
+    exists = False
+
+    if os.path.exists(filepath):
+        f = open(filepath, 'r')
+
+        for l in f.readlines():
+            if line == l:
+                exists = True
+                break
+        f.close()
+
+    if not exists:
+        f = open(filepath, 'a')
+        f.write(line)
+        f.close()
+
+##
 # get all sources
+##
 process_list = []
 for script in os.listdir('sources'):
     process_list.append({ 'script': script, 'proc': subprocess.Popen([ 'python', 'sources/' + script ]) })
@@ -18,7 +52,9 @@ for p in process_list:
     if p['proc'].returncode != 0:
         print('ERROR - script {} failed!'.format(p['script']))
 
-# create uniq hosts.txt file
+##
+# uniq hosts.txt file
+##
 if os.path.exists(all_hosts_file):
     os.remove(all_hosts_file)
 
@@ -30,7 +66,9 @@ for hf in os.listdir('data'):
 
     f.close()
 
-# create unbound and traditional hosts file
+##
+# unbound and traditional hosts file
+##
 if os.path.exists(unbound_hosts_file):
     os.remove(unbound_hosts_file)
 

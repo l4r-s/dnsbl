@@ -2,9 +2,6 @@ import os
 import sys
 import requests
 
-sys.path.insert(1, os.path.join(sys.path[0], '..'))
-from utils import *
-
 url = 'https://urlhaus.abuse.ch/downloads/hostfile/'
 
 file_name = os.path.basename(__file__)
@@ -18,11 +15,13 @@ if not r.ok:
 #if os.path.exists(hosts_file):
 #    os.remove(hosts_file)
 
+f = open(hosts_file, 'a')
 for line in r.iter_lines():
     s = line.decode("utf-8")
     if s.startswith('#') or s == '':
         continue
 
-    add_uniq_line(s.split('\t')[-1] + '\n', hosts_file)
+    f.write(s.split('\t')[-1] + '\n')
 
+f.close()
 sys.exit(0)
