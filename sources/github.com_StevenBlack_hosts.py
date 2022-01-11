@@ -30,7 +30,7 @@ for line in r.iter_lines():
     if s.startswith('#') or s == '':
         continue
 
-    f.write(s.split('\t')[-1] + '\n')
+    f.write(s.split(' ')[-1] + '\n')
 
 f.close()
 sys.exit(0)
