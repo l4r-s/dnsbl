@@ -52,7 +52,6 @@ if os.path.exists(all_hosts_file):
     os.remove(all_hosts_file)
 
 domain_set = set()
-f_all = open(all_hosts_file, 'a')
 for hf in os.listdir('data'):
     if '-hosts.txt' not in hf:
         continue
@@ -63,9 +62,15 @@ for hf in os.listdir('data'):
         if not is_whitelist(l):
             if l.rstrip('\n') not in domain_set:
                 domain_set.add(l.rstrip('\n'))
-                f_all.write(l.rstrip('\n') + '\n')
-
     f.close()
+
+f_all = open(all_hosts_file, 'a')
+for l in sorted(domain_set):
+    if l.startswith('#') or l.startswith('(') or len(l) == 0:
+        continue
+
+    f_all.write(l.rstrip('\n') + '\n')
+
 f_all.close()
 
 ##
