@@ -2,9 +2,9 @@ import os
 import sys
 import subprocess
 
-all_hosts_file = 'all-hosts.txt'
-unbound_hosts_file = 'unbound.conf'
-hosts_file = 'hosts'
+all_hosts_file = 'data/all-hosts.txt'
+unbound_hosts_file = 'data/unbound.conf'
+hosts_file = 'data/hosts'
 
 ##
 # helpers
@@ -47,6 +47,9 @@ if os.path.exists(all_hosts_file):
 domain_set = set()
 f_all = open(all_hosts_file, 'a')
 for hf in os.listdir('data'):
+    if '-hosts.txt' not in hf:
+        continue
+
     f = open('data/' + hf, 'r')
 
     for l in f.readlines():
