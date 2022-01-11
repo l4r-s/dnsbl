@@ -44,15 +44,15 @@ for p in process_list:
 if os.path.exists(all_hosts_file):
     os.remove(all_hosts_file)
 
-domain_list = []
+domain_set = set()
 f_all = open(all_hosts_file, 'a')
 for hf in os.listdir('data'):
     f = open('data/' + hf, 'r')
 
     for l in f.readlines():
         if not is_whitelist(l):
-            if l.rstrip('\n') not in domain_list:
-                domain_list.append(l.rstrip('\n'))
+            if l.rstrip('\n') not in domain_set:
+                domain_set.add(l.rstrip('\n'))
                 f_all.write(l.rstrip('\n') + '\n')
 
     f.close()
