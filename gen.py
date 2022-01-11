@@ -23,6 +23,12 @@ def is_whitelist(domain):
     return whitelist
 
 ##
+# remove previous files
+##
+for f in os.listdir('data/'):
+    os.remove('data/' + f)
+
+##
 # get all sources
 ##
 process_list = []
