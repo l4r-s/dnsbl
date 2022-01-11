@@ -4,6 +4,7 @@ import subprocess
 
 all_hosts_file = 'data/all-hosts.txt'
 unbound_hosts_file = 'data/unbound.conf'
+dnsmasq_hosts_file = 'data/dnsmasq.conf'
 hosts_file = 'data/hosts'
 
 ##
@@ -68,17 +69,22 @@ for hf in os.listdir('data'):
 f_all.close()
 
 ##
-# unbound and traditional hosts file
+# hosts config files
 ##
 if os.path.exists(unbound_hosts_file):
     os.remove(unbound_hosts_file)
+
+if os.path.exists(dnsmasq_hosts_file):
+    os.remove(dnsmasq_hosts_file)
 
 if os.path.exists(hosts_file):
     os.remove(hosts_file)
 
 all_hosts = open(all_hosts_file, 'r')
 hosts = open(hosts_file, 'a')
+dnsmasq = open(dnsmasq_hosts_file, 'a')
 unbound = open(unbound_hosts_file, 'a')
+
 unbound.write('server:\n')
 
 for l in all_hosts.readlines():
@@ -86,6 +92,9 @@ for l in all_hosts.readlines():
 
     unbound.write('local-data: "{} A 0.0.0.0"\n'.format(domain))
     unbound.write('local-data: "{} AAAA ::"\n'.format(domain))
+
+    dnsmasq.write('server=/{}/0.0.0.0\n'.format(domain))
+    dnsmasq.write('server=/{}/::\n'.format(domain))
 
     hosts.write('0.0.0.0 {}\n'.format(domain))
     hosts.write(':: {}\n'.format(domain))
