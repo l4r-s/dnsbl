@@ -22,23 +22,6 @@ def is_whitelist(domain):
 
     return whitelist
 
-def add_uniq_line(line, filepath):
-    exists = False
-
-    if os.path.exists(filepath):
-        f = open(filepath, 'r')
-
-        for l in f.readlines():
-            if line == l:
-                exists = True
-                break
-        f.close()
-
-    if not exists:
-        f = open(filepath, 'a')
-        f.write(line)
-        f.close()
-
 ##
 # get all sources
 ##
@@ -61,13 +44,19 @@ for p in process_list:
 if os.path.exists(all_hosts_file):
     os.remove(all_hosts_file)
 
+domain_list = []
+f_all = open(all_hosts_file, 'a')
 for hf in os.listdir('data'):
     f = open('data/' + hf, 'r')
+
     for l in f.readlines():
         if not is_whitelist(l):
-            add_uniq_line(l, all_hosts_file)
+            if l.rstrip('\n') not in domain_list:
+                domain_list.append(l.rstrip('\n'))
+                f_all.write(l.rstrip('\n') + '\n')
 
     f.close()
+f_all.close()
 
 ##
 # unbound and traditional hosts file
