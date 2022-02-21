@@ -22,6 +22,6 @@ echo "$(${now}) git status:" | tee -a ${LOG}
 git status 2>&1 | tee -a ${LOG}
 
 echo "$(${now}) git push" | tee -a ${LOG}
-git push 2>&1 | tee -a ${LOG}
+GIT_SSH_COMMAND="ssh -i ${SSH_KEY} "git push 2>&1 | tee -a ${LOG}
 
 echo "$(${now}) done! :)" | tee -a ${LOG}
