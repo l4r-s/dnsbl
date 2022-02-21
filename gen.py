@@ -34,7 +34,7 @@ for f in os.listdir('data/'):
 ##
 process_list = []
 for script in os.listdir('sources'):
-    process_list.append({ 'script': script, 'proc': subprocess.Popen([ os.path.realpath(sys.executable), 'sources/' + script ]) })
+    process_list.append({ 'script': script, 'proc': subprocess.Popen([ 'venv/bin/python', 'sources/' + script ]) })
 
 # wait for all sources to finish
 script_failed = False
