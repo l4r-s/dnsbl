@@ -93,7 +93,6 @@ backgrounds.pk
 badeggdesign.com
 ballatstone.com
 bangkok-orchids.com
-bank.zanderscloud.com.ng
 barkodsolutions.com
 barnhart-studios.com
 barsaji.com.mx
@@ -130,6 +129,7 @@ bolly4u.com.co
 bondpertayenergy.com
 bouhertmaoutdoors.tn
 briar.com.my
+brideofmessiah.com
 bridgesfoundationrepair.com
 brightmega.com
 british-shorthair.es
@@ -138,6 +138,7 @@ btc360.xyz
 bucbuc.in
 buigiaphat.com.vn
 bukuonline2u.com
+buscascolegios.diit.cl
 c.oooooooooo.ga
 caioaraujo.vip
 callswayroofco.com
@@ -158,7 +159,6 @@ cdn.riowt.top
 centralcdmx.gq
 centrichotel.com
 centuaryfabindia.com
-cepafact.com
 ceysaenerji.com.tr
 ch1.spacermodem.com
 chafferimpex.com
@@ -213,7 +213,6 @@ danspat.hu
 darazcoin.com
 darkchemical.com
 darna-online.org
-dashboard.khholdings.co.za
 data.cdevelop.org
 data.green-iraq.com
 davidmcguinness.info
@@ -355,7 +354,6 @@ futuro-brillante.com
 g.nxxxn.ga
 gagnersonargent.fr
 gan-n.cloud-downloader.com
-gatcomtech.co.za
 gbsports.theapplab.org
 geo-lines.com
 georgiatest.m2web.dev
@@ -374,6 +372,7 @@ goldennorth21.com
 goncalves.com
 goodnewsto2022.com
 google247.xyz
+google360.xyz
 googlevn.xyz
 gpoleri.com.ar
 grand-element.ru
@@ -382,7 +381,6 @@ greenhillsacademy.org
 greenlawnirrigation.net
 grimmcm.com
 gruzof.by
-gs.monerorx.com
 gt-max.com.my
 guillermomanrique.com.mx
 gursurdevelopers.com
@@ -390,7 +388,6 @@ gzesa.net
 hagebakken.no
 halalgoats.com
 hashtagmedia.co.in
-hb888.luminati-china.net
 hdkamera2003.hu
 healingtouchworcester.co.uk
 helipratello.it
@@ -439,7 +436,6 @@ imobiles.pk
 incrediblepixels.com
 incredicole.com
 indianjewellery.art
-indonesias.me
 indrasbikaner.com
 ingelagos.cl
 inj.sa
@@ -540,11 +536,11 @@ maashantiskills.com
 macmor-media.com.au
 madicon.co.za
 mail.bs-eiendomme.co.za
+mailgoogle.xyz
 mainpagedir.xyz
 maison-du-parc.com
 makeupuccino.com
 mall.payarena.com
-mallsupplement.com
 maquinadosgutierrez.com
 marcowine.com
 marcyovcx.ru
@@ -592,6 +588,7 @@ mr-mahmoud-hassan.com
 mtmusicaemercado.com.br
 mtsmanbaululumgayabaru2.com
 multilevelcarparkingindia.com
+mumgee.co.za
 mvb.kz
 mwu.com.mx
 my.uim.ir
@@ -610,6 +607,7 @@ necocheasexshop.com
 nemorisgames.com
 nepalisandes.com
 nettube.com.br
+networkwheels.co.za
 new-deal-for-you.com
 newagecast.com
 newdevjyq.devjyq.com
@@ -623,7 +621,6 @@ niwf.sourcetaggers.com
 njtiledesigncenter.com
 nmkonline.com
 nolabelsnowalls.net
-nomadicbees.com
 noonimpex.com
 nsb.org.uk
 nt.welcome-to.com
@@ -637,7 +634,6 @@ oceancityrentalbyowner.com
 ocmdbeachrentals.com
 oconstrutor.pt
 office365.bellboyindia.com
-oknoplastik.sk
 oleholeh.memangbeda.website
 oliveiraadvogadoscatanduva.adv.br
 ombrapiatta.com
@@ -649,6 +645,7 @@ ondulato.com.br
 online.creedglobal.in
 onyx-food.com
 oouth.com
+openmixcompras.com.br
 opornik55.ru
 oracle.zzhreceive.top
 orbdyn.com
@@ -696,6 +693,7 @@ pivot-to-virtual.com
 plantationproerp.com
 plasfan.ind.br
 playground.oaklife.ca
+policianacional.cv
 posmicrosystems.com
 ppdb.smk-ciptaskill.sch.id
 prestasicash.com.ar
@@ -736,7 +734,6 @@ redbats.co.in
 reifenquick.de
 relaxindulge.co.nz
 renton.apttechsol.com
-retailelectricprovider.com
 retailexpertscloud.com
 retailogy-eg.com
 ricambi.fixtofix.it
@@ -781,6 +778,7 @@ shadihub.hmrngroup.com
 shaheentbfoundation.com
 shahikhana.cstdevs.com
 shahu66.com
+sharetowin.xyz
 shimmershinecleaning.com
 shinoavto.com
 shiny-ticket.com
@@ -804,7 +802,6 @@ smsabuja.com
 socialmediahome.com
 sodovip88.com
 soft.110route.com
-softuvo.softuvo.xyz
 solarforafrica.net
 solenica.com
 soomaal.softuvo.xyz
@@ -813,12 +810,12 @@ southafricahappenings.co.za
 southmountainraceway.com
 sp.mongoso.com
 spa.grupokayros.org
-spaceframe.mobi.space-frame.co.za
 sparcalabar.lightzillion.com
 spent.com.pl
 spetsesyachtcharter.gr
 spices.com.sg
 springwoodminingservices.com
+squidgame.to
 sshomeo.com
 sspbluebox.com
 stackdigital.co.uk
@@ -953,7 +950,6 @@ webschool.quicksoft.in
 weinsteincounseling.com
 wencollection.com
 werkkledingbaas.nl
-whats.jsnsgjy.cn
 whizcraft.co.uk
 wildnights.co.uk
 wilmarijooste.co.za
@@ -984,7 +980,6 @@ www.duoyuhudong.cn
 www.empowercareer.com
 www.enc-tech.com
 www.esoftworld.co.kr
-www.f1cheats.org
 www.fixstudio.co.kr
 www.godfathersjunk.com
 www.hsecaravans.co.uk
@@ -1005,7 +1000,6 @@ www.nesthomes.co.ke
 www.opolis.io
 www.orientgatewayltd.com
 www.pasionportufuturo.pe
-www.portafolio.edugestion.cl
 www.prestasicash.com.ar
 www.qsbinternational.com
 www.reacredit.com.br
@@ -1024,7 +1018,6 @@ www.teknoarge.com
 www.teleargentina.com
 www.TradeInsights.net
 www.vivacuscoperu.com
-www.weinsteincounseling.com
 www.wpkms.com
 www.x2vn.com
 www.yafa-coach.co.il
@@ -1046,3 +1039,4 @@ yzkzixun.com
 znzhou.top
 zofer.com.br
 zsadvocacia.com
+ztekkhosting.com
