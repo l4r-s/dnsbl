@@ -18,6 +18,7 @@ aarogya-seva.com
 aarsaindustries.com
 abbmedikal.com
 abissnet.net
+abj.noveltypolytechnic.edu.ng
 abmaxdigital.com
 aboveandbelow.com.au
 academiaoslo.com.uy
@@ -32,7 +33,6 @@ admin.gentbcn.org
 admissionguruindia.org
 advconstructora.cl
 agdm.ml
-agemn.co.za
 aimeos.softuvo.xyz
 aiqtest.com
 airr-au.cam
@@ -88,7 +88,6 @@ badeggdesign.com
 baicc-ct.org
 ballatstone.com
 bangkok-orchids.com
-bank.zanderscloud.com.ng
 barkodsolutions.com
 barnhart-studios.com
 barsaji.com.mx
@@ -98,6 +97,7 @@ bawatingbarter.com
 bbia.co.uk
 bd.vomitbox.org
 bdjessi.bobetbobette.com
+bearcatpumps.com.cn
 beemployer.in
 benwellgroup.co.uk
 bespokeweddings.ie
@@ -184,7 +184,6 @@ continentalgroup.net.in
 coop-host.com
 copelandscapes.com
 corpotechgroup.com
-cottonbiz.com
 count.mail.163.com.impactmedfoundation.com
 courtneyjones.ac.ug
 covid19.cyberschool.or.id
@@ -210,7 +209,6 @@ darkchemical.com
 darna-online.org
 dashboard.khholdings.co.za
 data.cdevelop.org
-data.green-iraq.com
 davidmcguinness.info
 dawne.globodyinc.biz
 deagroup-ks.com
@@ -223,10 +221,12 @@ demo.nhabe360.com
 demo.shooes.in
 dental.xiaoxiao.media
 designerliving.co.za
+destinymc.co.za
 dev.crystalclearvapestore.co.uk
 dev.qualityonline.org
 dev.sebpo.net
 dev2-admin.ycbnt.net
+devanture.com.sg
 dezcom.com
 dinkovtips.ml
 direct.credit-suisse.com.juckzgames.com.br
@@ -262,6 +262,7 @@ dreamwatchevent.com
 drive.google.com.it-barcelona.com
 drkalan.com
 drsha.innovativesolutions.mobi
+dsenterprize.co.za
 du-wizards.com
 dukaree.com
 dulhagharnh.com
@@ -314,7 +315,6 @@ financialfitnessservices.co.za
 finfit.co.za
 fisioterapiaweb.com.br
 fkd.derpcity.ru
-flash-cn.gq
 flipbooks.com.br
 follow247.xyz
 follower-market.ir
@@ -420,6 +420,7 @@ imobiles.pk
 incrediblepixels.com
 incredicole.com
 indianjewellery.art
+indonesias.me
 indrasbikaner.com
 ingelagos.cl
 innosolv-idine.com
@@ -498,6 +499,7 @@ lestesteux.ca
 library.arihantmbainstitute.ac.in
 lindnerelektroanlagen.de
 linkintec.cn
+linkmys.com
 livehelpco.com
 livejagat.com
 livetrack.in
@@ -517,9 +519,7 @@ m-technics.kz
 m.ashiwenhua.net
 maashantiskills.com
 macmor-media.com.au
-madicon.co.za
 magic-tiles-stain-remover.com
-mail.bs-eiendomme.co.za
 mailgoogle.xyz
 maison-du-parc.com
 makeupuccino.com
@@ -577,7 +577,6 @@ necocheasexshop.com
 nemorisgames.com
 nepalisandes.com
 nettube.com.br
-networkwheels.co.za
 newagecast.com
 newdevjyq.devjyq.com
 newkidzontheblockdaycare.co.za
@@ -705,6 +704,7 @@ saemperu.com
 safcol-colors.com
 saffronflourmill.com
 sainzim.co.za
+samsuntattoo.com
 santacruzam.com
 sanvicente.group
 saojorgesupermercados.com.br
@@ -851,6 +851,7 @@ tsms.ogcs-tn.com
 twinings.grupoformax.net
 txingame.com
 ublretailerdemo.cstdevs.com
+ufbr.in
 ufficioline.top
 ufficiolines.top
 ufficiolink.top
@@ -860,7 +861,6 @@ ukrbaget.com.ua
 ultimate-24.de
 underdohag.ac.ug
 unicorpbrunei.com
-unisoftcc.com
 universalplastoind.com
 unlockingdreamsfinancial.com
 uyomall.lightzillion.com
@@ -886,7 +886,6 @@ volight.com
 volkscantonalbank.com
 voyager.softuvo.xyz
 vplatform.ae
-vpts.co.za
 vrstar-park.com
 vtakshop.ir
 w1.zypaint.com
@@ -910,6 +909,7 @@ winonvulkan.ringhio.net
 winonvulkan.syrox-kosova.com
 winteq-astra.com
 wishesconcierge.com
+witumart.com
 woezon.agency
 wordpress.saleensuporte.com.br
 worldofjain.com
@@ -975,6 +975,7 @@ www.swaong.com
 www.teknoarge.com
 www.teleargentina.com
 www.TradeInsights.net
+www.ultra98.com
 www.vivacuscoperu.com
 www.weinsteincounseling.com
 www.wpkms.com
@@ -997,7 +998,6 @@ york-show.ru
 youngsera.com
 yp.hnggzyjy.cn
 yzkzixun.com
-zionimoveis.com.br
 znzhou.top
 zofer.com.br
 ztekkhosting.com
