@@ -16,7 +16,6 @@ aarogya-seva.com
 aarsaindustries.com
 abbmedikal.com
 abissnet.net
-abj.noveltypolytechnic.edu.ng
 abmaxdigital.com
 aboveandbelow.com.au
 academiaoslo.com.uy
@@ -66,6 +65,7 @@ appyhorsey.com
 ardmtshidayatulfirdaus.inas.web.id
 areyoulivingwell.com
 arqua.com.br
+arshadbrother.com
 artursemth.com
 arushagems.com
 ashutoshgauttam.com
@@ -89,7 +89,6 @@ badeggdesign.com
 baicc-ct.org
 ballatstone.com
 bangkok-orchids.com
-bank.zanderscloud.com.ng
 barkodsolutions.com
 barnhart-studios.com
 barsaji.com.mx
@@ -114,6 +113,7 @@ blit.co.za
 blog.aeromus.com
 blog.drmostafafouadivf.com
 blog.loanvalley.in
+blog.oo0oo.ml
 blog.stetgzs.cn
 blog.takbelit.com
 bmn.lpmpbanten.id
@@ -168,6 +168,7 @@ citihits.lk
 citypharmacylv.com
 client.meetsusolutions.com
 clingcard.co.uk
+clinicatitiu.com.br
 cloud.fc.co.mz
 cloudsoft.or.ke
 clovekwealth.com
@@ -330,10 +331,10 @@ foxeps.com.br
 framemakers.us
 fraudaware.org.uk
 freereadmanga.com
-freesoftwares.ml
 fromtofor.ca
 fse.in.ua
 fullelectronica.com.ar
+fundacioncasauruguay.org
 funletters.net
 furyx.de
 futbolpr.com
@@ -380,6 +381,7 @@ hdkamera2003.hu
 healingtouchworcester.co.uk
 herchinfitout.com.sg
 hhaward.org
+hindimedia.in
 hitstation.nl
 hlm-indonesia.com
 hoianorganic.com.vn
@@ -444,10 +446,8 @@ jammuleader.in
 jamshed.pk
 jardinaix.fr
 jay.diamondrelationscrm.us
-jaydenandfaryl.com.my
 jcedu.org
 jcon.in
-jdkems.com
 jeffdahlke.com
 jekola.com
 jendelabook.pinusdev.com
@@ -526,10 +526,12 @@ maashantiskills.com
 macmor-media.com.au
 madicon.co.za
 magic-tiles-stain-remover.com
+mail.bs-eiendomme.co.za
 mailgoogle.xyz
 maison-du-parc.com
 makeupuccino.com
 mall.payarena.com
+maquinadosgutierrez.com
 marcowine.com
 marcyovcx.ru
 marineboyrecords.com
@@ -563,7 +565,6 @@ mpesa.shuleyanguonline.co.ke
 mr-mahmoud-hassan.com
 mtmusicaemercado.com.br
 multilevelcarparkingindia.com
-mumgee.co.za
 mustknew.com
 mvb.kz
 mwu.com.mx
@@ -580,6 +581,7 @@ necocheasexshop.com
 nemorisgames.com
 nepalisandes.com
 nettube.com.br
+networkwheels.co.za
 newagecast.com
 newdevjyq.devjyq.com
 newkidzontheblockdaycare.co.za
@@ -678,6 +680,7 @@ qatarglobalconsulting.com
 qingtianxcx.top
 qmsled.com
 rachelduffphotography.com
+rainbowisp.info
 rakeshkhatri.in
 ramseywetruss.com
 rangsay.com
@@ -726,7 +729,6 @@ sexologistpakistan.net
 sexshopnatural.co
 shaba.ge
 shabdsangramnews.com
-shadesofask.com
 shadihub.hmrngroup.com
 shaheentbfoundation.com
 shahikhana.cstdevs.com
@@ -775,7 +777,6 @@ starprive.com
 start360up.com
 static.cz01.cn
 stationcarslangley.co.uk
-stavki-na-sporte.ru
 stayinoceancitymd.com
 sterongroup.com.ng
 sticker.jewsjuice.com
@@ -807,7 +808,6 @@ techsoftweb.com.br
 techybhai.online
 tecingenieria.cl
 temptmag.com
-test.adventser.com
 test.fontecsys.net
 test.reachhealth.asia
 test.typoten.com
@@ -825,6 +825,7 @@ tianangdep.com
 timamollo.co.za
 timegonebuy.com
 tk.w3.eyeteam.vn
+tlcnailbarhoover.com
 todoapp.cstdevs.com
 tonmatdoanminh.com
 tonydong.com
@@ -909,7 +910,6 @@ winonvulkan.ringhio.net
 winonvulkan.syrox-kosova.com
 winteq-astra.com
 wishesconcierge.com
-witumart.com
 woezon.agency
 wordpress.pixeleyenow.com
 wordpress.saleensuporte.com.br
@@ -999,4 +999,5 @@ youngsera.com
 yp.hnggzyjy.cn
 yzkzixun.com
 znzhou.top
+zofer.com.br
 ztekkhosting.com
