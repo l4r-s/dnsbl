@@ -32,7 +32,6 @@ advconstructora.cl
 aetoaluminium.com
 afavoritacouros.com.br
 agdm.ml
-agemn.co.za
 aimeos.softuvo.xyz
 aiqtest.com
 aircod.com
@@ -88,8 +87,10 @@ backgrounds.pk
 badeggdesign.com
 ballatstone.com
 bangkok-orchids.com
+bank.zanderscloud.com.ng
 barkodsolutions.com
 barnhart-studios.com
+basbeigium.com
 bawatingbarter.com
 bbia.co.uk
 bd.vomitbox.org
@@ -158,7 +159,6 @@ chpopesco.com
 cifeer.net
 ciidental.com.ec
 citihits.lk
-cksacoustics.com
 clade.de
 client.meetsusolutions.com
 clingcard.co.uk
@@ -222,7 +222,6 @@ demo.shooes.in
 dental.xiaoxiao.media
 desaganafoot.com
 designerliving.co.za
-destinymc.co.za
 dev.crystalclearvapestore.co.uk
 dev.qualityonline.org
 dev.sebpo.net
@@ -247,6 +246,7 @@ dosman.pl
 down.pcclear.com
 down.rxgif.cn
 down.webbora.com
+down.yjhyjl.cn
 download.doumaibiji.cn
 download.pdf00.cn
 downloads.bcweb.org.uk
@@ -256,6 +256,7 @@ dreamwatchevent.com
 drive.google.com.it-barcelona.com
 drkalan.com
 drsha.innovativesolutions.mobi
+dsenterprize.co.za
 du-wizards.com
 dukaree.com
 dulhagharnh.com
@@ -329,6 +330,7 @@ futbolpr.com
 fwit1.com
 g.nxxxn.ga
 gan-n.cloud-downloader.com
+gatcomtech.co.za
 gbsports.theapplab.org
 geiger.si
 geo-lines.com
@@ -420,7 +422,6 @@ jay.diamondrelationscrm.us
 jaydenandfaryl.com.my
 jcedu.org
 jcon.in
-jdkems.com
 jeffdahlke.com
 jhayesconsulting.com
 jkonderhoud.nl
@@ -433,7 +434,6 @@ justforanime.com
 jxwd.cc
 kadigital.co.uk
 kaptured.io
-karantinatahfizh.com
 karer.by
 katiej.globodyinc.biz
 kayodeoguta.com
@@ -490,11 +490,10 @@ lumanate.xyz
 luminouspneuma.com
 lupusmarketing.com
 lydt.cc
+m-scr888.com
 m.ashiwenhua.net
 macmor-media.com.au
 madicon.co.za
-magic-tiles-stain-remover.com
-mail.bs-eiendomme.co.za
 mail.filastiniyat.org
 maison-du-parc.com
 makeupuccino.com
@@ -505,6 +504,7 @@ marcyovcx.ru
 marineboyrecords.com
 marksidfgs.ug
 marquesvogt.com
+massageviet.com.vn
 masterlimpieza.com.ar
 mbgrm.com
 mbsolutions.ge
@@ -538,6 +538,7 @@ nasapaul.com
 nbs.vizzhost.com
 necocheasexshop.com
 nettube.com.br
+networkwheels.co.za
 newagecast.com
 newdevjyq.devjyq.com
 newkidzontheblockdaycare.co.za
@@ -561,6 +562,7 @@ oceancitymdforsalebyowner.com
 oceancityrentalbyowner.com
 ocmdbeachrentals.com
 office365.bellboyindia.com
+oknoplastik.sk
 old.liceum9.ru
 oleholeh.memangbeda.website
 oliveiraadvogadoscatanduva.adv.br
@@ -579,7 +581,6 @@ orsan.gruporhynous.com
 outdoortacklebox.com
 ozemag.com
 ozvita.club
-p2.d9media.cn
 pablobrothel.com.ar
 pacwebdesigns.com
 paint-regen.club
@@ -589,7 +590,6 @@ parallel.rockvideos.at
 parking1.samayiot.com
 parkwooddoors.co.nz
 parrotbay.net
-pasarbta.biz
 pataphysics.net.au
 patch2.99ddd.com
 patch3.99ddd.com
@@ -660,7 +660,6 @@ s.51shijuan.com
 s1.techopesolutions.com
 safcol-colors.com
 saffronflourmill.com
-sainzim.co.za
 samsuntattoo.com
 savethefuture.us
 sbss.com.pk
@@ -701,6 +700,7 @@ sistema.consegecu.com
 skyviewonlineltd.com
 sleepstarlite-ozark.com
 sodovip88.com
+soft-hard-computer.com
 soft.110route.com
 softuvo.softuvo.xyz
 solarforafrica.net
@@ -832,11 +832,9 @@ winnieswondersaviary.com
 winonvulkan.ringhio.net
 winonvulkan.syrox-kosova.com
 winteq-astra.com
-witumart.com
 woezon.agency
 wordpress.saleensuporte.com.br
 worldofjain.com
-wp.readhere.in
 wp.seletoh.com
 wshsoft.company
 www.21robo.com
