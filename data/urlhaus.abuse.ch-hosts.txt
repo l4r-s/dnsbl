@@ -167,6 +167,7 @@ blidoo.cl
 blindshub.ca
 blog.aeromus.com
 blog.stetgzs.cn
+blog.takbelit.com
 blueprogress.org
 bluewall.hu
 blumer.com.br
@@ -209,6 +210,7 @@ canconsulting.in
 caragudigital.com.mx
 carbondaleplumberpros.us
 caribbeanknights.com.ng
+cariustadz.org
 carloscamposmedia.com
 carlosdjomo.com
 carnesecaelpatron.com.mx
@@ -228,7 +230,6 @@ ceramicosnorte.com.ar
 cesehsa.com
 ceylonindustrial.com
 ceysaenerji.com.tr
-cgcandy.com
 ch1.spacermodem.com
 chafferimpex.com
 chaitanyayogafoundation.org
@@ -244,6 +245,7 @@ chuckozeas.com
 cifeer.net
 ciidental.com.ec
 cipro.mx
+cksacoustics.com
 clearviewwindowfilm.com
 client.meetsusolutions.com
 cliniquepourenfants.com
@@ -258,7 +260,6 @@ codearoma.co.in
 cofenator.ru
 coinince.com
 colegiodepadua.com.br
-colgefine.at
 combatgurus.com
 computec-zim.com.mx
 comunidadfitnessecuador.com
@@ -408,7 +409,6 @@ ekaremimarlik.com
 ekinbodrum.com
 elturismo.cl
 emaids.co.za
-emesconcontabil.com.br
 en.baoend.com
 endpointwellness.com
 environmentalaw.com
@@ -431,7 +431,7 @@ expansion360.net
 f.gogamef.com
 faai-international.com
 fadhelec.com.ec
-fardatech.com
+farmacia.eliteacademy.com.br
 farschid.de
 fashionbyprincessmelodicaah.com
 fast1031.com
@@ -562,6 +562,7 @@ hostingdeguatemala.com
 hostingparacolombia.com
 hotelhadieh.ir
 houseatthebeachinoc.com
+houseproinspection.com
 howebeautiful.com
 howimetyourdata.com
 hr2019.vrcom7.com
@@ -582,17 +583,21 @@ idilsoft.com
 idlistop.com
 ikejaclub.org
 ilhasplast.com.br
+iloop.sourcetaggers.com
 ilpem-ar.com
 images.jermiau.com
 imaginationtoon.com
+imbueautoworx.co.za
 immunotec.network
 imobiles.pk
 impexlanka.com
 incrediblepixels.com
 incredicole.com
 indianjewellery.art
+indonesias.me
 indrasbikaner.com
 infomatesolutions.ca
+infuga.cl
 inmobiliarianasu.com
 innosolv-idine.com
 instabardelivery.com
@@ -706,6 +711,7 @@ m-technics.kz
 m.ashiwenhua.net
 m1.eco.br
 macmor-media.com.au
+madicon.co.za
 mail.filastiniyat.org
 makeupuccino.com
 malayska.ug
@@ -762,6 +768,7 @@ msmtaxation.com.au
 mtmusicaemercado.com.br
 muaazkhalid.com
 mufinacademy.com
+multicarsclubindia.com
 multilevelcarparkingindia.com
 multitiendallamativo.cl
 munisantaeulalia.gob.gt
@@ -772,6 +779,7 @@ mysura.it
 mywestchiropractic.com
 namohafoundries.com
 nandikapaper.com
+nasapaul.com
 nbs.vizzhost.com
 ndeprok.com
 ndiza.org.za
@@ -788,6 +796,7 @@ nhorangtreem.com
 nimble-learners.com
 nimbustradings.com
 niplaw.com
+niwf.sourcetaggers.com
 nmkonline.com
 nobius.org
 nominally.ru
@@ -812,7 +821,6 @@ oms.pappai.com
 omscoc.pappai.com
 onevoicetransmedia.com
 online.creedglobal.in
-onlinecasinosonfire.com
 openjoblinks.com
 opornik55.ru
 opqwes.top
@@ -826,6 +834,7 @@ osmektvafrica.com
 outdoortacklebox.com
 ozemag.com
 ozvita.club
+p2.d9media.cn
 p3.zbjimg.com
 p6.zbjimg.com
 pablobrothel.com.ar
@@ -952,6 +961,7 @@ sarkarijobcard.com
 satrangflex.com
 sawedding.com.hk
 sbss.com.pk
+scglobal.co.th
 schoolofspanish.co.za
 scrapvanil.kz
 sdsegurancaeletronica.com.br
@@ -983,6 +993,7 @@ short.extrafandome.com
 shubhechhaalwar.com
 shunda321.com
 sifcomercial.com
+silvesterinmailand.com
 simgftesting.kabtakalar.id
 simproce.com
 singhinfotechs.in
@@ -997,7 +1008,6 @@ softguidecomputer.com
 solenica.com
 sonalifecare.com
 sonipspace.com
-soomaal.softuvo.xyz
 sorathlions.com
 source3.boys4dayz.com
 spaceframe.mobi.space-frame.co.za
@@ -1034,13 +1044,13 @@ t.honker.info
 tajir.com
 tanlayseong.com
 tara.globodyinc.biz
-taralabalu.in
 tariqa.pk
 taskmgrdev.com
 taxclubpk.com
 tbs.net.bd
 tc.snpsresidential.com
 td4ksa.com
+teamazmog.xyz
 teammsup.com
 techybhai.online
 tegso.net
@@ -1133,8 +1143,8 @@ vjvschool.in
 vksales.com
 vocoptions.net
 voiptrainers.com
-voyager.softuvo.xyz
 vplatform.ae
+vpts.co.za
 vrstar-park.com
 vswf.org
 vtvtwisk.nl
@@ -1255,12 +1265,10 @@ www.wpkms.com
 www.yafa-coach.co.il
 www.ysbaojia.com
 wxoperate.bb2play.com
-x.233sy.cn
 x.rune-spectrals.com
 xariatowing.co.za
 xn----7sbhgfcdscaa3cdd6dq3e3dvf.xn--p1ai
 xn--cheggl-videos-fr-gastronomie-g7c.de
-xt.lykj988.com
 xtreamdigital.com
 xz.8dashi.com
 yeichner.com
@@ -1269,3 +1277,5 @@ yourbm.com
 yourtravelmode.com
 yp.hnggzyjy.cn
 yzkzixun.com
+zerit.top
+ztekkhosting.com
