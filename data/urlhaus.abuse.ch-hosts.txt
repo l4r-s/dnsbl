@@ -28,8 +28,9 @@ admin.classified.pointsource.ng
 aduanasctpp.com
 aft.co.ke
 agdm.ml
+agemn.co.za
+agenciagleba.com
 agenciaml.com.br
-agenciatucan.com.br
 airliftlimo.com
 akim.org.ar
 alagouzaco.com
@@ -114,7 +115,6 @@ benwellgroup.co.uk
 bethelmbcarvada.org
 bg-group.com.eg
 bhaagya.app
-bimatek.co.id
 binnuryetikdanismanlik.com.tr
 bitlog.shop
 bjfibra.com
@@ -209,6 +209,7 @@ colgefine.at
 commune-ariana.tn
 computiendastrevo.com
 conderadio.tv
+congtycamvinh.com
 continentalgroup.net.in
 coop-host.com
 coopacredito.com
@@ -258,10 +259,10 @@ demo.fontecsys.net
 demonware.online
 dental.xiaoxiao.media
 design-ed.com
-destinymc.co.za
 dev.crystalclearvapestore.co.uk
 dev.sebpo.net
 dev2-admin.ycbnt.net
+dewtelecom.com
 dezcom.com
 dfsgbhnjmnyhtbgrvfd.top
 diaplanu.com
@@ -287,7 +288,6 @@ dongnaitw.com
 down.pcclear.com
 down.rxgif.cn
 down.yjhyjl.cn
-download.doumaibiji.cn
 download.pdf00.cn
 download.studymathlive.com
 downloads.bcweb.org.uk
@@ -306,7 +306,6 @@ duoclieuhanhphuc.com
 dutapp.wisolve.co.za
 dwwmaster.com
 e-commerce.saleensuporte.com.br
-e-fistik.com
 e-weddingcardswala.in
 e5web.com.br
 easiercommunications.com
@@ -369,6 +368,7 @@ fisioterapiaweb.com.br
 fkd.derpcity.ru
 flacso.org.do
 flamengo2022.com.br
+floralelegance.mx
 fmesperanza945.com
 fontecmobile.com
 football.g-sports.gr
@@ -403,7 +403,6 @@ gla.ge
 globartmag.com
 glossycity.co.in
 gnnmuebles.com
-go.zgroupdigital.com
 gocnhotaichinh.com
 godubai.club
 godwindaramola.com
@@ -416,6 +415,7 @@ gotovacoil.com
 grand-element.ru
 graphicdes.com
 greenhillsacademy.org
+greentouchuae.com
 greycoconut.com
 grimmcm.com
 grupobatistella.com.br
@@ -468,11 +468,11 @@ i-dots.com
 icficarazzi.edu.it
 idea-time.com
 ideaplusjal.in
+ideoso.com.tw
 iees.com.br
 ikejaclub.org
 ilialalagkou.com
 iloop.sourcetaggers.com
-ilpem-ar.com
 imaginationtoon.com
 imbueautoworx.co.za
 imenikala.com
@@ -510,6 +510,7 @@ jointings.org
 joker123.game
 jordysantamaria.com
 josymixmyhome.com.br
+just5team.com
 justplay.asia
 jx.qingdaosheng.com
 jx2caothu.com
@@ -566,6 +567,7 @@ locabonita.com
 location-voitures.ma
 lopespublicidade.com
 lovemihome.co.za
+ls-droid.com
 ltc.typoten.com
 lucro.importsbr.com
 luisangeja.com
@@ -679,7 +681,6 @@ octcargo.com
 office365.bellboyindia.com
 ogenhukuk.com
 ohsewgorgeous.co.uk
-oknoplastik.sk
 old.liceum9.ru
 oleholeh.memangbeda.website
 oleitikocottages.com
@@ -697,7 +698,6 @@ orsan.gruporhynous.com
 outdoortacklebox.com
 outlet2shop.com
 ozemag.com
-p2.d9media.cn
 p3.zbjimg.com
 p6.zbjimg.com
 pablobrothel.com.ar
@@ -793,6 +793,7 @@ revistatuk.com
 ricambi.fixtofix.it
 rinaadrianasusana.com
 rinaefoundation.org.za
+riverstreetearlylearning.com.au
 rizwansulehria.com
 rkservice.in
 robertmchilespe.com
@@ -813,6 +814,7 @@ safecampus.net
 saffronflourmill.com
 saffrontheindiankitchen.com
 saintjosemariaschool.edu.pe
+sainzim.co.za
 saisuvidharestaurant.com
 salsasyhelados.com
 sanaadlin.tk
@@ -841,9 +843,9 @@ shrigurukulias.com
 shunda321.com
 sieuthiphutungxenang.com
 sikadaklak.com
-silentplace.in
 silvesterinmailand.com
 similant.eu
+simplydeliciousdinners.com
 simproce.com
 sindicato1ucm.cl
 sitagoa.com
@@ -866,6 +868,7 @@ spent.com.pl
 spetsesyachtcharter.gr
 spices.com.sg
 sprinktechug.com
+src1.minibai.com
 srigurunathaenterprises.com
 srv1.aztronic.com.br
 ss.monita.co.id
@@ -873,7 +876,6 @@ sshd.run
 sspbluebox.com
 st-florenceacademy.com
 stackdigital.co.uk
-stalaggdiscord.com
 static.cz01.cn
 stayinoceancitymd.com
 steelcorp-fr.com
@@ -903,18 +905,16 @@ tarlacmedicalcenter.com.ph
 tatlub.com
 taxclubpk.com
 tc.snpsresidential.com
-teamhunt.in
 technlogy.net
 techybhai.online
 teloprestomedellin.com
 temptmag.com
-terrazzaitaliana.mx
 test.fontecsys.net
 test.typoten.com
 tg8.cllgxx.com
 tg8.imuillj.com
 thalengenharia.com.br
-tharringtonsponsorship.com
+thalesfu.com
 theplace.gr
 thepublicelection.com
 thesalons.in
@@ -951,7 +951,6 @@ u9369287208.iransofttools.ir
 ublretailerdemo.cstdevs.com
 udboxes.com
 ukguk71.ru
-ultra-ref.fr
 unbi.ba
 unicorpbrunei.com
 unimed-corporated.com
@@ -983,7 +982,6 @@ volviendoalavida.com
 vpts.co.za
 vrilinnovations.com
 vrstar-park.com
-w1.zypaint.com
 walisys.com
 walkindrivetoday.com
 washatsanjose.com
@@ -1089,6 +1087,7 @@ www.reacredit.com.br
 www.reifenquick.de
 www.reiwo-service.de
 www.reneetten.nl
+www.repservis.com.ar
 www.roofing.galacticleads.com
 www.saudihtn.org
 www.sindicato1ucm.cl
@@ -1117,7 +1116,6 @@ xz.8dashi.com
 yasb.in
 yestech.com.ng
 yfstreaming.com.br
-yourpc411.com
 yp.hnggzyjy.cn
 yzkzixun.com
 zenitheth.com
