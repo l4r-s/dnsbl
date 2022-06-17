@@ -27,9 +27,11 @@ admin.classified.pointsource.ng
 ads-google-analytics-shop.info
 aduanasctpp.com
 agdm.ml
+agemn.co.za
 airhobi.com
 akdalarabic.com
 akim.org.ar
+alasparacrecer.com.ar
 alberts.diamondrelationscrm.us
 aldojuanpettiti.com.ar
 alinac.ca
@@ -158,6 +160,7 @@ callswayroofco.com
 calzadoyuyin.com
 camminachetipassa.it
 canconsulting.in
+candidcrush.in
 cannipius.nl
 cansal.cl
 caragudigital.com.mx
@@ -271,8 +274,6 @@ dongnaitw.com
 down.1230578.com
 down.pcclear.com
 down.rxgif.cn
-down.yjhyjl.cn
-download.doumaibiji.cn
 download.pdf00.cn
 downloads.bcweb.org.uk
 drechslerstammtisch.de
@@ -304,7 +305,6 @@ eipweb.com
 elamurray.com
 elepanco.com
 emaids.co.za
-emprendedorimbatible.com
 en.baoend.com
 engviniciusfranco.com.br
 enkhmunkh.mn
@@ -365,7 +365,6 @@ geowf.ge
 gethomevaluerestoration.com
 ggsteal.in
 ghanaenergyawards.com
-giaoductretuky.com
 glossycity.co.in
 gmgeneraltrading.com
 gnnmuebles.com
@@ -403,10 +402,10 @@ hathaabeach.com
 hb888.luminati-china.net
 heattreatedpalletsla.com
 heaventechnologies.com.pk
+hegodev.com
 helmprecision.com
 helpdeskserver.epelcdn.com
 herchinfitout.com.sg
-heyatek.com
 hitstation.nl
 hlm-indonesia.com
 hoccu.vn
@@ -432,12 +431,11 @@ humvegetarian.w3.eyeteam.vn
 hunggiang.vn
 i-dots.com
 i.fluffy.cc
-ibet168mm.com
 idea-time.com
 ikejaclub.org
 iloop.sourcetaggers.com
-ilpem-ar.com
 iluminaguarapuava.com.br
+imaginationtoon.com
 imenikala.com
 immunotec.network
 imperiodasespumas.com.br
@@ -448,7 +446,6 @@ indonesias.me
 indoriauperkasa.com
 indrasbikaner.com
 infamousproductions.biz
-infovitimas.pt
 ingenious.cl
 innosolv-idine.com
 instratghs.com
@@ -505,12 +502,10 @@ lceventos.net
 ldgcorp.com
 learnfastearn.com
 learnviaonline.com
-learnwithridm.com
 leasiacherise.com
 lennart.serv.se
 library.arihantmbainstitute.ac.in
 lightmyfire.in
-lightomech.in
 lindnerelektroanlagen.de
 linkintec.cn
 linkvilleplayers.org
@@ -528,7 +523,6 @@ lumanate.xyz
 luminouspneuma.com
 lupusmarketing.com
 lutanedukasi.co.id
-luxurydestinations.in
 luzytextura.com
 macmor-media.com.au
 madicon.co.za
@@ -545,6 +539,7 @@ marquesvogt.com
 martingrant.com
 maskaniranian.com
 masteret.co.za
+mayuripadhi.com
 mcapublicschool.com
 mckinneytighe.com
 medianews.ge
@@ -687,6 +682,7 @@ re9cred.com
 redmag-dz.com
 reifenquick.de
 reime.dk
+relaxindulge.co.nz
 renton.apttechsol.com
 reshake-official.com
 retailelectricprovider.com
@@ -712,6 +708,7 @@ rylanderrichter.com
 saffronflourmill.com
 saffrontheindiankitchen.com
 saintjosemariaschool.edu.pe
+sainzim.co.za
 samsungsmartcafetirunelveli.in
 saqr.co.ke
 sareeshaper.com
@@ -790,13 +787,13 @@ tara.globodyinc.biz
 tatlub.com
 taxclubpk.com
 tc.snpsresidential.com
-teacherslearningassociation.com
 techybhai.online
 tecni-soft.com
 tekstiluzmangorusu.com
 temptmag.com
 terrazzaitaliana.mx
 test.fontecsys.net
+test.typoten.com
 tg8.cllgxx.com
 tg8.imuillj.com
 thalesfu.com
@@ -864,7 +861,6 @@ visionnextgroup.net
 vitrifrig0.com
 vocoptions.net
 vourey-sports.fr
-vpts.co.za
 vrstar-park.com
 w1.zypaint.com
 wahkiulogistics.com.hk
@@ -886,7 +882,6 @@ winnieswondersaviary.com
 winonvulkan.ringhio.net
 winonvulkan.syrox-kosova.com
 wordpress.agrupem.com
-wordpress.pixeleyenow.com
 worldmedicsky.info
 worldofjain.com
 wshsoft.company
@@ -939,6 +934,7 @@ www.gacpropiedades.cl
 www.garantihaliyikama.com
 www.geowf.ge
 www.godfathersjunk.com
+www.greentechits.com
 www.guedala.com.br
 www.hellojohnwebb.com
 www.hotelmourya.com
@@ -971,6 +967,7 @@ www.reiwo-service.de
 www.roofing.galacticleads.com
 www.sanskriticreations.net
 www.saudihtn.org
+www.sbobetth.site
 www.serafiliado.com
 www.sindicato1ucm.cl
 www.skyscan.com
@@ -985,7 +982,6 @@ www.thuybaohuy.com
 www.toplevel.com.br
 www.tractorandinas.com
 www.TradeInsights.net
-www.ultra98.com
 www.universalcustomdesigns.com
 www.usaayurveda.com
 www.venessori.com
@@ -998,6 +994,7 @@ www.weitzmedicalmanagement.com
 www.wpkms.com
 www.yedirenkajans.com
 www.ysbaojia.com
+x.233sy.cn
 x.rune-spectrals.com
 xebabanhchohang.vn
 xenangifc.vn
