@@ -74,7 +74,6 @@ apachisoftwaresolutions.com
 apanor.com.br
 apexcreative.co.kr
 api-ms.cobainaja.id
-api.52kkg.com
 api.cstdevs.com
 applepaybanker.com
 applific.net
@@ -132,6 +131,7 @@ bbia.co.uk
 bbischool.ro
 bd.vomitbox.org
 beachwood.ug
+bearcatpumps.com.cn
 beaute-reine-didon.com
 beautybymaria.uk
 beeabouttown.com
@@ -173,6 +173,7 @@ brasslineindia.com
 breakdownlanemovie.com
 brideofmessiah.com
 bridgesfoundationrepair.com
+britainsolicitors.com
 british-shorthair.es
 britspizzeria.com
 bronsky.kiev.ua
@@ -262,13 +263,12 @@ consumerfinanceguide.com
 continentalgroup.net.in
 coop-host.com
 coopacredito.com
+corpernaija.com
 corpolevesuplementos.com.br
 corporaciondominic.pe
 corporateissolutions.com
 corpuslender.com
 coulylabadiogoul.com
-count.mail.163.com.impactmedfoundation.com
-cracklefix.date
 cracksmsa.ug
 crearechile.cl
 createfutureworld.com
@@ -335,6 +335,7 @@ discoveryast.com
 distribuidoramontereal.com.br
 disweb.sk
 divinaprovidenciaautlan.com
+dl.1003b.56a.com
 dl.9xu.com
 dlfgroupindia.in
 dlqsclub.com
@@ -349,7 +350,6 @@ down.1230578.com
 down.jxnccd.cn
 down.pcclear.com
 down.rxgif.cn
-down.yjhyjl.cn
 download.doumaibiji.cn
 download.pdf00.cn
 downloads.bcweb.org.uk
@@ -404,7 +404,6 @@ dusangerzicgera.com
 dutapp.wisolve.co.za
 dxbnewlaunch.com
 dzairvoyages.com
-e-commerce.saleensuporte.com.br
 e5web.com.br
 easybrand.vn
 easyrentbyowner.com
@@ -476,7 +475,6 @@ fpd.cl
 fse.in.ua
 ftp.yourbankruptcypartner.com
 ftponline.in
-fun2gag.com
 funletters.net
 furnituremanila.com
 fxtradeoption24.co.za
@@ -533,6 +531,7 @@ healthwealthvaastu.com
 heartsathome.org
 heattreatedpalletsla.com
 heaventechnologies.com.pk
+hegodev.com
 helmprecision.com
 helpdeskserver.epelcdn.com
 herchinfitout.com.sg
@@ -576,6 +575,7 @@ igitangsel.or.id
 ikejaclub.org
 iloop.sourcetaggers.com
 imaginationtoon.com
+imbueautoworx.co.za
 imenikala.com
 immunotec.network
 imobiles.pk
@@ -617,7 +617,6 @@ jointings.org
 jorgeolivaycia.cl
 josymixmyhome.com.br
 jr-software-web.net
-jrfurnace.com
 justplay.asia
 jxwd.cc
 kafei.528k.cn
@@ -683,6 +682,7 @@ linkintec.cn
 linkvilleplayers.org
 lisasimonellirennie.com
 livetrack.in
+livinginthephilippinesandaustralia.com
 lm.stagingarea.co.za
 lms.cstdevs.com
 loa-hk.com
@@ -700,7 +700,6 @@ m-ainsurance.com
 m3mgurugram.co
 macdefug.org
 macmor-media.com.au
-madicon.co.za
 magnetode.com
 magnumceramics.com
 mailinstantly.in
@@ -714,6 +713,7 @@ marksidfgs.ug
 marmaris.com.ua
 marnersstyler.ug
 marquesvogt.com
+martingrant.com
 maskaniranian.com
 masteret.co.za
 masterzuuch.mn
@@ -774,7 +774,6 @@ nagarvu.com
 nakharinitwebhosting.com
 napolilovemark.com
 nasapaul.com
-natirmurtos.art
 nawa.com.my
 nazreghadir.ir
 nenlineasv.com
@@ -944,7 +943,6 @@ sainzim.co.za
 samsungsmartcafetirunelveli.in
 sandiego-dumpster.com
 sareeshaper.com
-satyaday.in
 saya131.in
 sayanoida131.co.in
 sbss.com.pk
@@ -967,7 +965,6 @@ shamgloballlc.com
 shepherdsshadowindia.com
 shingaiafrique.com
 shop.mediasova.ru
-shopart.me
 shrutex.com
 sieuthiphutungxenang.com
 sigratech.de
@@ -1038,6 +1035,7 @@ tara.globodyinc.biz
 tatlub.com
 taxclubpk.com
 tc.snpsresidential.com
+teamhunt.in
 techcris.com
 techybhai.online
 tecni-soft.com
@@ -1106,6 +1104,7 @@ ublretailerdemo.cstdevs.com
 udboxes.com
 ukguk71.ru
 unbi.ba
+unimed-corporated.com
 uniqc.uk
 uniquebusiness1.com
 unisoftcc.com
@@ -1132,6 +1131,7 @@ vietroll.vn
 viphawan.com
 vipteck.com
 vipysknik.by
+virusandroid.net
 visionnextgroup.net
 vitamazzeh.ir
 vitoweb.net
@@ -1216,6 +1216,7 @@ www.exataweb.com.br
 www.faitmaison.uk
 www.fixstudio.co.kr
 www.fundacioncedes.org
+www.gacpropiedades.cl
 www.garantihaliyikama.com
 www.geowf.ge
 www.godfathersjunk.com
@@ -1248,7 +1249,6 @@ www.reacredit.com.br
 www.reifenquick.de
 www.reiwo-service.de
 www.roofing.galacticleads.com
-www.saudihtn.org
 www.serafiliado.com
 www.sindicato1ucm.cl
 www.skyscan.com
