@@ -13,7 +13,6 @@ abbmedikal.com
 abissnet.net
 abmaxdigital.com
 acellr.co.uk
-acera.co.uk
 activa-ghana.com
 admin.classified.pointsource.ng
 aduanasctpp.com
@@ -47,7 +46,6 @@ api.cstdevs.com
 applific.net
 apps.saintsoporte.com
 appyhorsey.com
-aquaprodive.com
 ara-choob.com
 areyoulivingwell.com
 armandotechnology.com.br
@@ -94,7 +92,6 @@ benconry.com
 benwellgroup.co.uk
 bethelmbcarvada.org
 bhaagya.app
-bigmikesupplies.co.za
 binnuryetikdanismanlik.com.tr
 bitlog.shop
 blog.aeromus.com
@@ -113,7 +110,6 @@ brasslineindia.com
 breakdownlanemovie.com
 brideofmessiah.com
 bridgesfoundationrepair.com
-britainsolicitors.com
 british-shorthair.es
 britspizzeria.com
 brittknight.com
@@ -157,7 +153,6 @@ cloud.fc.co.mz
 cloudsoft.or.ke
 clovekwealth.com
 codeflakesstudio.com
-coinince.com
 cointrade.world
 colegiounamuno.es
 commune-ariana.tn
@@ -207,7 +202,6 @@ dev.sebpo.net
 dev2-admin.ycbnt.net
 dhcmart.com
 dhnconstrucciones.com.ar
-dhsoftware.com.au
 diaplanu.com
 dijicom.net
 direct.safone.tech
@@ -230,6 +224,7 @@ down.pcclear.com
 down.rxgif.cn
 down.yjhyjl.cn
 download.caihong.com
+download.doumaibiji.cn
 download.pdf00.cn
 downloads.bcweb.org.uk
 drawino.com
@@ -333,7 +328,6 @@ greenlizard.co.za
 grimmcm.com
 grupobatistella.com.br
 grupomoxin.com.do
-gs.monerorx.com
 gt-max.com.my
 gunstel.com
 guvenliksepeti.net
@@ -366,7 +360,6 @@ howebeautiful.com
 howesitgoing.com
 howimetyourdata.com
 hqsistemas.com.ar
-hr2019.vrcom7.com
 hseda.com
 htech.eti.br
 htownbars.com
@@ -377,12 +370,12 @@ i-dots.com
 ibpcorp.org
 ideaplusjal.in
 iloop.sourcetaggers.com
+imbueautoworx.co.za
 imenikala.com
 immunotec.network
 imobiles.pk
 imperiodasespumas.com.br
 incrediblepixels.com
-incredicole.com
 indonesias.me
 indrasbikaner.com
 induvit.tlaxcala.gob.mx
@@ -399,7 +392,6 @@ japlatec.com
 jay.diamondrelationscrm.us
 jcedu.org
 jcnetsghana.com
-jhayesconsulting.com
 jitherbilance.in
 jobcity.com
 jointings.org
@@ -457,15 +449,12 @@ loa-hk.com
 location-voitures.ma
 lopespublicidade.com
 ls-droid.com
-ltc.typoten.com
 luminouspneuma.com
 lupusmarketing.com
 lutanedukasi.co.id
 luxurydestinations.in
 luzytextura.com
-m-ainsurance.com
 macmor-media.com.au
-madicon.co.za
 makeupuccino.com
 marcowine.com
 mario-sunjic.com
@@ -502,7 +491,6 @@ mnpcbd.com
 moarkgcc.com
 moorworld.com
 mulmatdol.com
-mumgee.co.za
 mwu.com.mx
 myphamcuatui.com
 mysouthbay.com
@@ -591,6 +579,7 @@ puntamimarlik.com.tr
 pv-energy.net
 py.tgdl.cf
 qamaraltaf.com
+qingtianxcx.top
 qmsled.com
 qwugdsabbdsdeeeeb212c.bydthkk.top
 rainbowisp.info
@@ -604,7 +593,6 @@ renton.apttechsol.com
 reshake-official.com
 retailelectricprovider.com
 retailexpertscloud.com
-rgyui.top
 ricambi.fixtofix.it
 rinaefoundation.org.za
 riopiscinas.com.br
@@ -640,12 +628,11 @@ shahu66.com
 shop.mediasova.ru
 shopart.me
 shunda321.com
-sindicato1ucm.cl
+sieuthiphutungxenang.com
 skydivingdzs.com
 sleepstarlite-ozark.com
 socigo.eu
 soft.110route.com
-solenica.com
 solutiontrackers.com
 spaceframe.mobi.space-frame.co.za
 sparcalabar.lightzillion.com
@@ -704,7 +691,6 @@ tobecoaching.co.uk
 todoapp.cstdevs.com
 tonydong.com
 torresquinterocorp.com
-tournhatrang.asia
 tradingview-brokers.learnforcareer.com
 training.globodyinc.biz
 traveladmin.sourcetaggers.com
@@ -733,10 +719,12 @@ vfocus.net
 victorysanitizer.com
 vietroll.vn
 viphawan.com
+vipteck.com
 vipysknik.by
 visionnextgroup.net
 vitrifrig0.com
 vocoptions.net
+vpts.co.za
 vrstar-park.com
 w1.zypaint.com
 wahkiulogistics.com.hk
@@ -781,7 +769,6 @@ www.dacui.online
 www.davidludlow.com
 www.dental.xiaoxiao.media
 www.destinocuenca.com
-www.doctorcasenave.com
 www.easyprotocols.com
 www.elgatoconbotaseventos.es
 www.empowercareer.com
