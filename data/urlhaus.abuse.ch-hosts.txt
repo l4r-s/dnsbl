@@ -83,12 +83,12 @@ bbg.az
 bbia.co.uk
 bd.vomitbox.org
 beachwood.ug
+bearcatpumps.com.cn
 beeabouttown.com
 benconry.com
 benwellgroup.co.uk
 bethelmbcarvada.org
 bhaagya.app
-bigmikesupplies.co.za
 binnuryetikdanismanlik.com.tr
 bitlog.shop
 blog.aeromus.com
@@ -159,7 +159,6 @@ consultoriabrastec.com.br
 continentalgroup.net.in
 coop-host.com
 coopacredito.com
-corpernaija.com
 corpolevesuplementos.com.br
 corpuslender.com
 count.mail.163.com.impactmedfoundation.com
@@ -195,7 +194,6 @@ demo.energianmittaus.fi
 demo.fontecsys.net
 demonware.online
 dental.xiaoxiao.media
-destinymc.co.za
 dev.sebpo.net
 dev2-admin.ycbnt.net
 dhcmart.com
@@ -226,7 +224,6 @@ download.pdf00.cn
 downloads.bcweb.org.uk
 drawino.com
 dreams4tomorrow.org
-drhanneserasmus.co.za
 drive.google.com.it-barcelona.com
 drjaralampos.com
 drjasonneuro.in
@@ -368,7 +365,6 @@ imobiles.pk
 imperiodasespumas.com.br
 incotel.com.pk
 incrediblepixels.com
-indonesias.me
 indrasbikaner.com
 infinite-stars.net
 ingenious.cl
@@ -440,7 +436,6 @@ location-voitures.ma
 loja.eulillian.com
 lopespublicidade.com
 lorritroughton.com
-ls-droid.com
 ltc.typoten.com
 luminouspneuma.com
 lupusmarketing.com
@@ -464,7 +459,6 @@ medianews.ge
 medofast.in
 meeweb.com
 meonhanong.com
-mepstein.com
 mer30.ru
 meridianites.com
 metalgas.com.ar
@@ -487,6 +481,7 @@ moorworld.com
 morientlines.com
 mttg.ir
 mulmatdol.com
+mumgee.co.za
 mwu.com.mx
 myphamcuatui.com
 mysouthbay.com
@@ -542,7 +537,6 @@ patch2.99ddd.com
 patriciamirapsicologa.com
 pay.ewalletgold.com
 pcsolutionss.com
-perfectguard.hu
 petparadise.biz
 phuket-expat-vaccinations.com
 picsmaker.com
@@ -562,7 +556,6 @@ prisma.ae
 promas.com
 prontoperro.com.uy
 propsource.in
-proqualityodontologia.com.br
 proservcomercio.com
 prosperbusinessdepot.com
 protechasia.com
@@ -599,7 +592,6 @@ sacvasanth.com
 saffronflourmill.com
 saffrontheindiankitchen.com
 saintjosemariaschool.edu.pe
-sainzim.co.za
 sareeshaper.com
 sbss.com.pk
 scglobal.co.th
@@ -625,7 +617,6 @@ sleepstarlite-ozark.com
 smelecpro.com
 socigo.eu
 soft.110route.com
-solenica.com
 solutiontrackers.com
 spaceframe.mobi.space-frame.co.za
 sparcalabar.lightzillion.com
@@ -636,7 +627,6 @@ src1.minibai.com
 srigurunathaenterprises.com
 srmcomputer.com
 ss.monita.co.id
-sshd.run
 st-florenceacademy.com
 stainedglassexpress.com
 starluckycentre.com
@@ -667,6 +657,7 @@ tecni-soft.com
 tekstiluzmangorusu.com
 temptmag.com
 test.fontecsys.net
+test.typoten.com
 tg8.cllgxx.com
 tg8.imuillj.com
 tgasiamanagement.com
@@ -685,7 +676,6 @@ torresquinterocorp.com
 tradingview-brokers.learnforcareer.com
 training.globodyinc.biz
 travelwithmanta.co.za
-trieutin.com
 twinings.grupoformax.net
 ublretailerdemo.cstdevs.com
 udboxes.com
@@ -774,9 +764,9 @@ www.graficadupress.com.br
 www.guedala.com.br
 www.hellojohnwebb.com
 www.henkelpl.com
+www.hotelmourya.com
 www.hseda.com
 www.ideaplusjal.in
-www.ingonherbal.com
 www.izeltelekom.com
 www.jackholland.eu
 www.jdserralheria.com.br
@@ -805,7 +795,6 @@ www.sota-france.fr
 www.starcountry.net
 www.thegoodneighbourapp.com
 www.toplevel.com.br
-www.tractorandinas.com
 www.viralvia.fi
 www.vivacuscoperu.com
 www.wahkiulogistics.com.hk
@@ -824,5 +813,6 @@ yestech.com.ng
 yoymanajemen.id
 yp.hnggzyjy.cn
 yzkzixun.com
+zarzamora.com.mx
 zhivir.com
 ztekkhosting.com
