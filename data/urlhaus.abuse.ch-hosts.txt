@@ -78,7 +78,6 @@ bbg.az
 bbia.co.uk
 bd.vomitbox.org
 beachwood.ug
-bearcatpumps.com.cn
 beeabouttown.com
 benconry.com
 benwellgroup.co.uk
@@ -88,6 +87,7 @@ binnuryetikdanismanlik.com.tr
 bitlog.shop
 blog.aeromus.com
 blog.stetgzs.cn
+blueprogress.org
 bmn.lpmpbanten.id
 bmss.org.in
 bobcatminer-store.e-mantra.in
@@ -104,7 +104,6 @@ brideofmessiah.com
 bridgesfoundationrepair.com
 british-shorthair.es
 britspizzeria.com
-brittknight.com
 bruiserbodies.com
 bsa.iain-jember.ac.id
 bukuonline2u.com
@@ -145,7 +144,6 @@ cloud.fc.co.mz
 cloudsoft.or.ke
 clovekwealth.com
 codeflakesstudio.com
-coinince.com
 commune-ariana.tn
 computiendastrevo.com
 consultoriabrastec.com.br
@@ -185,8 +183,8 @@ demo-re-usables.inertiasoft.net
 demo.cansunoto.com
 demo.energianmittaus.fi
 demo.fontecsys.net
-demonware.online
 dental.xiaoxiao.media
+destinymc.co.za
 dev.sebpo.net
 dev2-admin.ycbnt.net
 dhcmart.com
@@ -209,7 +207,8 @@ dongnaitw.com
 down.1230578.com
 down.pcclear.com
 down.rxgif.cn
-download.caihong.com
+down.yjhyjl.cn
+download.doumaibiji.cn
 download.pdf00.cn
 downloads.bcweb.org.uk
 drawino.com
@@ -351,7 +350,6 @@ hunggiang.vn
 i-dots.com
 ibpcorp.org
 ideaplusjal.in
-imbueautoworx.co.za
 imenikala.com
 immunotec.network
 imobiles.pk
@@ -359,7 +357,7 @@ imperiodasespumas.com.br
 incotel.com.pk
 incrediblepixels.com
 incredicole.com
-indonesias.me
+indrasbikaner.com
 infinite-stars.net
 ingenious.cl
 innosolv-idine.com
@@ -384,6 +382,7 @@ jxwd.cc
 kafei.528k.cn
 kairaliagencies.com
 kandctravel.com
+kaptured.io
 karer.by
 karimgousa.ug
 kenaridjaja.com
@@ -398,7 +397,6 @@ kingspalmhomes.com
 kinmirai.org
 kodekode.ac.ug
 kokfinance.nl
-krisbadminton.com
 kronostr.com
 krusevo.gov.mk
 ksansari.pk
@@ -425,7 +423,6 @@ lisasimonellirennie.com
 livetrack.in
 lm.stagingarea.co.za
 lms.cstdevs.com
-loa-hk.com
 location-voitures.ma
 loja.eulillian.com
 lopespublicidade.com
@@ -439,6 +436,7 @@ luxurydestinations.in
 luzytextura.com
 m-ainsurance.com
 macmor-media.com.au
+madicon.co.za
 makeupuccino.com
 marcowine.com
 mario-sunjic.com
@@ -476,6 +474,7 @@ moorworld.com
 mq-ca.com
 mttg.ir
 mulmatdol.com
+mumgee.co.za
 mwu.com.mx
 myphamcuatui.com
 mysouthbay.com
@@ -516,7 +515,6 @@ orsan.gruporhynous.com
 outdoortacklebox.com
 ozemag.com
 p2.d9media.cn
-pablobrothel.com.ar
 pacwebdesigns.com
 palharesinformatica.com.br
 panscollections.in.th
@@ -554,7 +552,6 @@ prontoperro.com.uy
 propsource.in
 proservcomercio.com
 prosperbusinessdepot.com
-protechasia.com
 prowayindustries.com
 proyectartpanama.com
 punjabdevelopersassociation.com.pk
@@ -565,6 +562,7 @@ qmsled.com
 raqmnh.com
 reach-book.com
 redmag-dz.com
+regenerations.eu
 reifenquick.de
 reime.dk
 relaxindulge.co.nz
@@ -651,6 +649,7 @@ tecni-soft.com
 tekstiluzmangorusu.com
 temptmag.com
 test.fontecsys.net
+test.typoten.com
 tg8.cllgxx.com
 tg8.imuillj.com
 tgasiamanagement.com
@@ -696,6 +695,7 @@ vipysknik.by
 visionnextgroup.net
 vitrifrig0.com
 vocoptions.net
+vpts.co.za
 vrstar-park.com
 w1.zypaint.com
 wahkiulogistics.com.hk
@@ -767,12 +767,12 @@ www.ks.cn
 www.kspintidana.com
 www.littleplanetclass.com
 www.llev.com.br
-www.maxmoney.com
 www.metalgas.com.ar
 www.mfevr.com
 www.mobiles-photostudio.com
 www.moninediy.com
 www.mp3infonice.top
+www.mp3statycy.top
 www.officeinsumos.com
 www.opolis.io
 www.palharesinformatica.com.br
@@ -793,7 +793,6 @@ www.wahkiulogistics.com.hk
 www.websound.ru
 www.weinsteincounseling.com
 www.wpkms.com
-www.ysbaojia.com
 x.233sy.cn
 x.rune-spectrals.com
 xn----7sbhgfcdscaa3cdd6dq3e3dvf.xn--p1ai
@@ -806,4 +805,3 @@ yoymanajemen.id
 yp.hnggzyjy.cn
 yzkzixun.com
 zhivir.com
-ztekkhosting.com
