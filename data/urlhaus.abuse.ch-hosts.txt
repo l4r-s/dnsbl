@@ -23,7 +23,6 @@ admin.classified.pointsource.ng
 aduanasctpp.com
 afromerchants.co.zw
 agdm.ml
-agemn.co.za
 airhobi.com
 akim.org.ar
 aksaraymanset.com
@@ -51,6 +50,7 @@ api.52kkg.com
 api.cstdevs.com
 applific.net
 apps.saintsoporte.com
+appyhorsey.com
 ara-choob.com
 archives-program.com
 areyoulivingwell.com
@@ -86,13 +86,13 @@ bbg.az
 bbia.co.uk
 bd.vomitbox.org
 beachwood.ug
-bearcatpumps.com.cn
 beeabouttown.com
 benconry.com
 benwellgroup.co.uk
 bethelmbcarvada.org
 bhaagya.app
 bhandariclub.com
+bigmikesupplies.co.za
 binnuryetikdanismanlik.com.tr
 bitlog.shop
 blog.aeromus.com
@@ -119,6 +119,7 @@ bruiserbodies.com
 bsa.iain-jember.ac.id
 bukuonline2u.com
 bullrush.com.au
+burgermurger.com
 buscascolegios.diit.cl
 c.oooooooooo.ga
 caioaraujo.vip
@@ -193,6 +194,7 @@ demo.energianmittaus.fi
 demo.fontecsys.net
 demonware.online
 dental.xiaoxiao.media
+destinymc.co.za
 dev.sebpo.net
 dev2-admin.ycbnt.net
 dhcmart.com
@@ -203,6 +205,7 @@ dijicom.net
 disbaramulla.com
 discoveryast.com
 divinaprovidenciaautlan.com
+dl.1003b.56a.com
 dlqsclub.com
 dmastermovers.co.za
 document.vpservice-online.com
@@ -212,6 +215,7 @@ dongnaitw.com
 down.1230578.com
 down.pcclear.com
 down.rxgif.cn
+download.doumaibiji.cn
 download.pdf00.cn
 downloads.bcweb.org.uk
 dreams4tomorrow.org
@@ -231,7 +235,6 @@ easyviettravel.vn
 ebuysa.co.za
 ecim.azneomedia.ro
 edoraseguros.com.br
-edu.pmvanini.rs.gov.br
 ef-web.com
 ehsanenterprises.com
 emaids.co.za
@@ -336,14 +339,12 @@ htownbars.com
 hunggiang.vn
 i-dots.com
 ideaplusjal.in
-imbueautoworx.co.za
 imenikala.com
 immunotec.network
 imobiles.pk
 imperiodasespumas.com.br
 incotel.com.pk
 incrediblepixels.com
-incredicole.com
 indonesias.me
 indrasbikaner.com
 infinite-stars.net
@@ -398,7 +399,6 @@ library.arihantmbainstitute.ac.in
 lifebotl.com
 lightomech.in
 lindnerelektroanlagen.de
-linkintec.cn
 linkvilleplayers.org
 lisasimonellirennie.com
 livetrack.in
@@ -409,6 +409,7 @@ location-voitures.ma
 loja.eulillian.com
 longevitymeats.com
 lopespublicidade.com
+ls-droid.com
 ltc.typoten.com
 luminouspneuma.com
 lupusmarketing.com
@@ -456,7 +457,6 @@ mysouthbay.com
 mysura.it
 nazreghadir.ir
 nenlineasv.com
-networkwheels.co.za
 newdevjyq.devjyq.com
 newgoplus.com
 newkano.com
@@ -486,13 +486,11 @@ online.creedglobal.in
 orsan.gruporhynous.com
 otogi-zensen.com
 outdoortacklebox.com
-ozemag.com
 ozvita.club
 p2.d9media.cn
 pablobrothel.com.ar
 pacwebdesigns.com
 palharesinformatica.com.br
-panscollections.in.th
 parallel.rockvideos.at
 parking1.samayiot.com
 parkwooddoors.co.nz
@@ -509,6 +507,7 @@ pharmakoehnen.ga
 phuket-expat-vaccinations.com
 picsmaker.com
 piedpiperdesigns.com
+piktina.com
 pivot-to-virtual.com
 plasfan.ind.br
 pns.org.pk
@@ -531,9 +530,11 @@ pv-energy.net
 qamaraltaf.com
 qmsled.com
 raqmnh.com
+rccgthebrooks.org
 redmag-dz.com
 reifenquick.de
 reime.dk
+relaxindulge.co.nz
 renton.apttechsol.com
 reshake-official.com
 retailelectricprovider.com
@@ -657,8 +658,9 @@ vipysknik.by
 visionnextgroup.net
 vitrifrig0.com
 vocoptions.net
-vpts.co.za
+w1.zypaint.com
 wahkiulogistics.com.hk
+walkindrivetoday.com
 wanderlustphtravel.com
 watersgroupglobal.com
 wawanhar.id
@@ -689,8 +691,8 @@ www.cellas.sk
 www.cesasin.com.ar
 www.charmingsoftech.com
 www.chawkyfrenn.com
+www.chemsky.tn
 www.cisnc.it
-www.classicproduction.com
 www.corpandina.com.pe
 www.crazy97.com
 www.dacui.online
@@ -718,13 +720,11 @@ www.izeltelekom.com
 www.jackholland.eu
 www.jdserralheria.com.br
 www.kjcpromo.com
-www.ks.cn
 www.littleplanetclass.com
 www.maxmoney.com
 www.metalgas.com.ar
 www.mfevr.com
 www.mobiles-photostudio.com
-www.moninediy.com
 www.mp3infonice.top
 www.mp3statycy.top
 www.officeinsumos.com
@@ -732,7 +732,6 @@ www.opolis.io
 www.palharesinformatica.com.br
 www.reacredit.com.br
 www.reifenquick.de
-www.roofing.galacticleads.com
 www.sindicato1ucm.cl
 www.skyscan.com
 www.sota-france.fr
