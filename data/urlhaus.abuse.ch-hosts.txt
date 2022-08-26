@@ -14,7 +14,6 @@ aandllandscaping.ca
 aarsaindustries.com
 aayushakti.com
 abbmedikal.com
-abmaxdigital.com
 acellr.co.uk
 acera.co.uk
 activa-ghana.com
@@ -40,6 +39,7 @@ angel.bk.idv.tw
 annesimonnot.com
 aosafrica.co.za
 apanor.com.br
+apexcreative.co.kr
 api-ms.cobainaja.id
 api.52kkg.com
 api.cstdevs.com
@@ -173,7 +173,6 @@ demo.energianmittaus.fi
 demo.fontecsys.net
 demonware.online
 dental.xiaoxiao.media
-destinymc.co.za
 dev.sebpo.net
 dev2-admin.ycbnt.net
 dfuy.fun
@@ -313,7 +312,6 @@ htownbars.com
 hunggiang.vn
 i-dots.com
 ideaplusjal.in
-imbueautoworx.co.za
 imenikala.com
 immunotec.network
 imobiles.pk
@@ -383,6 +381,7 @@ loja.eulillian.com
 longevitymeats.com
 lopespublicidade.com
 ls-droid.com
+ltc.typoten.com
 luminouspneuma.com
 lupusmarketing.com
 lutanedukasi.co.id
@@ -421,6 +420,7 @@ moarkgcc.com
 mohammadyarico.com
 moorworld.com
 mulmatdol.com
+mumgee.co.za
 mwu.com.mx
 myphamcuatui.com
 mysouthbay.com
@@ -490,7 +490,6 @@ prestigehomeautomation.net
 prevenzioneformazionelavoro.it
 primaflor-sby.com
 primefind.com
-prisma.ae
 profiteneh.com
 prontoperro.com.uy
 propsource.in
@@ -528,7 +527,6 @@ safe-car.ru
 safetygear.pk
 saffronflourmill.com
 saintjosemariaschool.edu.pe
-sainzim.co.za
 sareeshaper.com
 sbss.com.pk
 scan.fearfulcats.tk
@@ -576,6 +574,7 @@ sun2u.com
 superdiag.xyz
 superstar.tibolts.co.uk
 support.clz.kr
+swwbia.com
 synns.cf
 sysproc.net
 t.honker.info
@@ -588,6 +587,7 @@ tc.snpsresidential.com
 techybhai.online
 tecni-soft.com
 temptmag.com
+test.fontecsys.net
 test.typoten.com
 textglow.net
 tg8.cllgxx.com
@@ -627,7 +627,6 @@ vaidikdentalcollege.edu.in
 valueshippings.cc
 vasarhelyitanyak.hu
 vegproworld.com
-vendor.uhurubay.com
 veomit.com
 vfiecdg.tk
 vfocus.net
@@ -700,6 +699,7 @@ www.jackholland.eu
 www.jdserralheria.com.br
 www.kjcpromo.com
 www.ks.cn
+www.kspintidana.com
 www.littleplanetclass.com
 www.maxmoney.com
 www.meltatours.co.za
