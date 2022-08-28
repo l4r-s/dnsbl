@@ -80,6 +80,7 @@ bhaagya.app
 bitlog.shop
 blog.aeromus.com
 blog.stetgzs.cn
+blueprogress.org
 bmn.lpmpbanten.id
 bmss.org.in
 bobcatminer-store.e-mantra.in
@@ -168,11 +169,9 @@ demo.energianmittaus.fi
 demo.fontecsys.net
 demonware.online
 dental.xiaoxiao.media
-destinymc.co.za
 dev.sebpo.net
 dev2-admin.ycbnt.net
 dhcmart.com
-dhnconstrucciones.com.ar
 diaplanu.com
 dijicom.net
 disbaramulla.com
@@ -228,6 +227,7 @@ expotb.com
 f.gogamef.com
 faai-international.com
 facelimpa.com.br
+fakermet.com
 famesa.com.ar
 fastaccesone.com
 fc.co.mz
@@ -260,7 +260,6 @@ gbsports.theapplab.org
 gccon.in
 geowf.ge
 gethomevaluerestoration.com
-ggsteal.in
 ghanaenergyawards.com
 globartmag.com
 godubai.club
@@ -315,13 +314,12 @@ imperiodasespumas.com.br
 incotel.com.pk
 incrediblepixels.com
 incredicole.com
-inexu.top
+indrasbikaner.com
 infinite-stars.net
 ingenious.cl
 innosolv-idine.com
 installtracker.cfd
 instratghs.com
-isaac.mikhailmotoringschool.com
 jacquieclark.com
 japlatec.com
 jay.diamondrelationscrm.us
@@ -418,7 +416,6 @@ moarkgcc.com
 mohammadyarico.com
 moorworld.com
 mulmatdol.com
-mumgee.co.za
 mwu.com.mx
 my-v-file.syno-ds.de
 myphamcuatui.com
@@ -427,7 +424,6 @@ mysura.it
 nazi-naz-nakon.tk
 nazreghadir.ir
 nenlineasv.com
-networkwheels.co.za
 newdevjyq.devjyq.com
 newgoplus.com
 newkano.com
@@ -477,6 +473,7 @@ picsmaker.com
 piedpiperdesigns.com
 pigi-ed.tk
 pigre-edti.tk
+piktina.com
 pink99.com
 pivot-to-virtual.com
 plasfan.ind.br
@@ -504,6 +501,7 @@ qamaraltaf.com
 qdefwrgbewf.xyz
 qmsled.com
 raqmnh.com
+rccgthebrooks.org
 redmag-dz.com
 reifenquick.de
 relaxindulge.co.nz
@@ -512,7 +510,6 @@ reshake-official.com
 resxctyre.com
 retailelectricprovider.com
 retailexpertscloud.com
-rgyui.top
 ricambi.fixtofix.it
 rinaefoundation.org.za
 riopiscinas.com.br
@@ -533,6 +530,7 @@ scglobal.co.th
 schoolofspanish.co.za
 scientific.pk
 scr.gen.tr
+senbiaojita.com
 seniorweekoc.net
 server.easysalepage.in.th
 server.toeicswt.co.kr
@@ -543,6 +541,7 @@ shipminttracking.net
 shop.mediasova.ru
 shopart.me
 shunda321.com
+sieuthiphutungxenang.com
 sindicato1ucm.cl
 skydivingdzs.com
 sleepstarlite-ozark.com
@@ -584,7 +583,6 @@ techybhai.online
 tecni-soft.com
 temptmag.com
 test.fontecsys.net
-test.typoten.com
 textglow.net
 tg8.cllgxx.com
 tg8.imuillj.com
@@ -613,11 +611,11 @@ umanostudio.com
 unicorpbrunei.com
 unisoftcc.com
 universalplastoind.com
+unlockingdreamsfinancial.com
 update.cg100iii.com
 uxsingh.com
 uylab.org
 uyomall.lightzillion.com
-v.xyzgamev.com
 vaidikdentalcollege.edu.in
 vasarhelyitanyak.hu
 vbncmpghcs.top
@@ -660,7 +658,6 @@ www.cellas.sk
 www.cesasin.com.ar
 www.charmingsoftech.com
 www.chawkyfrenn.com
-www.chemsky.tn
 www.cisnc.it
 www.classicproduction.com
 www.corpandina.com.pe
