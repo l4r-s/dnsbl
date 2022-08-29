@@ -20,7 +20,6 @@ admin.classified.pointsource.ng
 aduanasctpp.com
 afromerchants.co.zw
 agdm.ml
-agemn.co.za
 airhobi.com
 akim.org.ar
 alberts.diamondrelationscrm.us
@@ -76,10 +75,10 @@ benconry.com
 benwellgroup.co.uk
 bethelmbcarvada.org
 bhaagya.app
-bigmikesupplies.co.za
 bitlog.shop
 blog.aeromus.com
 blog.stetgzs.cn
+blueprogress.org
 bmn.lpmpbanten.id
 bmss.org.in
 bobcatminer-store.e-mantra.in
@@ -141,7 +140,6 @@ corscania.com
 cothdesigns.com
 count.mail.163.com.impactmedfoundation.com
 cracksmsa.ug
-crecerco.com
 cricket.theglobalindia.net
 crmfarko.manivelasst.com
 cthulhu-world.app
@@ -157,6 +155,7 @@ darkchemical.com
 dashboard.khholdings.co.za
 datainline.com
 dating.khokhas.co.za
+davidmcguinness.info
 dayyar.com
 ddlakava.ac.ug
 deborarachelle.com
@@ -200,7 +199,6 @@ easyviettravel.vn
 eblgh-sanae.tk
 ebuysa.co.za
 ecim.azneomedia.ro
-edoraseguros.com.br
 edu.pmvanini.rs.gov.br
 ef-web.com
 ehsanenterprises.com
@@ -322,12 +320,10 @@ japlatec.com
 jay.diamondrelationscrm.us
 jcedu.org
 jcnetsghana.com
-jhayesconsulting.com
 jitherbilance.in
 jobcity.com
 jointings.org
 jr-software-web.net
-jrfurnace.com
 justplay.asia
 jxwd.cc
 kafei.528k.cn
@@ -413,14 +409,13 @@ moarkgcc.com
 mohammadyarico.com
 moorworld.com
 mulmatdol.com
-mumgee.co.za
 mwu.com.mx
 my-v-file.syno-ds.de
+myphamcuatui.com
 mysouthbay.com
 mysura.it
 nazreghadir.ir
 nenlineasv.com
-networkwheels.co.za
 newdevjyq.devjyq.com
 newgoplus.com
 newkano.com
@@ -469,7 +464,6 @@ philipdattilo.com
 phuket-expat-vaccinations.com
 picsmaker.com
 piedpiperdesigns.com
-piktina.com
 pink99.com
 pivot-to-virtual.com
 plasfan.ind.br
@@ -497,14 +491,15 @@ qdefwrgbewf.xyz
 qmsled.com
 radioboua.com.br
 raqmnh.com
-rccgthebrooks.org
 redmag-dz.com
 reifenquick.de
+relaxindulge.co.nz
 renton.apttechsol.com
 reshake-official.com
 resxctyre.com
 retailelectricprovider.com
 retailexpertscloud.com
+rgyui.top
 ricambi.fixtofix.it
 rinaefoundation.org.za
 riopiscinas.com.br
@@ -534,9 +529,7 @@ shahu66.com
 shipminttracking.net
 shop.mediasova.ru
 shopart.me
-shunda321.com
 sieuthiphutungxenang.com
-sindicato1ucm.cl
 skydivingdzs.com
 sleepstarlite-ozark.com
 smkn3depok.com
@@ -548,6 +541,7 @@ spaceframe.mobi.space-frame.co.za
 sparcalabar.lightzillion.com
 spent.com.pl
 spices.com.sg
+src1.minibai.com
 srigurunathaenterprises.com
 ss.monita.co.id
 sshd.run
@@ -610,7 +604,6 @@ update.cg100iii.com
 uxsingh.com
 uylab.org
 uyomall.lightzillion.com
-v.xyzgamev.com
 vaidikdentalcollege.edu.in
 vasarhelyitanyak.hu
 vbncmpghcs.top
@@ -643,7 +636,6 @@ winonvulkan.ringhio.net
 winonvulkan.syrox-kosova.com
 worldofjain.com
 wshsoft.company
-www.21robo.com
 www.6autumns.com
 www.agies.org
 www.alertsecurities.in
@@ -655,7 +647,6 @@ www.cellas.sk
 www.cesasin.com.ar
 www.charmingsoftech.com
 www.chawkyfrenn.com
-www.chemsky.tn
 www.cisnc.it
 www.classicproduction.com
 www.corpandina.com.pe
@@ -715,6 +706,7 @@ www.wahkiulogistics.com.hk
 www.websound.ru
 www.weinsteincounseling.com
 www.ysbaojia.com
+x.233sy.cn
 x.rune-spectrals.com
 xn----7sbhgfcdscaa3cdd6dq3e3dvf.xn--p1ai
 xn--cheggl-videos-fr-gastronomie-g7c.de
