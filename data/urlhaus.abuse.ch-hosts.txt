@@ -34,7 +34,6 @@ apanor.com.br
 apexcreative.co.kr
 api-ms.cobainaja.id
 api.52kkg.com
-api.cstdevs.com
 applific.net
 apps.saintsoporte.com
 ara-choob.com
@@ -62,6 +61,7 @@ bbg.az
 bbia.co.uk
 bboc.com.pe
 beachwood.ug
+bearvisionpnd.com
 beeabouttown.com
 belladama.fr
 benconry.com
@@ -297,6 +297,7 @@ imperiodasespumas.com.br
 incotel.com.pk
 incrediblepixels.com
 incredicole.com
+indonesias.me
 indrasbikaner.com
 infinite-stars.net
 innosolv-idine.com
@@ -354,7 +355,6 @@ location-voitures.ma
 loja.eulillian.com
 longevitymeats.com
 lopespublicidade.com
-ls-droid.com
 ltc.typoten.com
 luminouspneuma.com
 lupusmarketing.com
@@ -362,7 +362,6 @@ luxartis.pl
 luxurydestinations.in
 luzytextura.com
 macmor-media.com.au
-madicon.co.za
 makeupuccino.com
 marcowine.com
 mario-sunjic.com
@@ -397,12 +396,13 @@ moarkgcc.com
 mohammadyarico.com
 moorworld.com
 mulmatdol.com
+mumgee.co.za
 myphamcuatui.com
 mysouthbay.com
 mysura.it
 namthaibinh.net
 nazreghadir.ir
-networkwheels.co.za
+nenlineasv.com
 newdevjyq.devjyq.com
 newgoplus.com
 newkano.com
@@ -435,7 +435,6 @@ ozvita.club
 p2.d9media.cn
 pablobrothel.com.ar
 pacwebdesigns.com
-palharesinformatica.com.br
 panscollections.in.th
 parallel.rockvideos.at
 parking1.samayiot.com
@@ -501,13 +500,13 @@ rylanderrichter.com
 safetygear.pk
 saffronflourmill.com
 saintjosemariaschool.edu.pe
-sainzim.co.za
 sareeshaper.com
 sbss.com.pk
 scglobal.co.th
 schoolofspanish.co.za
 scientific.pk
 scr.gen.tr
+senbiaojita.com
 seniorweekoc.net
 server.easysalepage.in.th
 setarhome.com
@@ -586,12 +585,12 @@ unisoftcc.com
 universalplastoind.com
 unlockingdreamsfinancial.com
 update.cg100iii.com
+uxsingh.com
 uylab.org
 uyomall.lightzillion.com
 v.xyzgamev.com
 vaidikdentalcollege.edu.in
 vasarhelyitanyak.hu
-vbncmpghcs.top
 vegproworld.com
 veomit.com
 vfocus.net
@@ -672,8 +671,6 @@ www.quadrantmeasurements.com
 www.reacredit.com.br
 www.reifenquick.de
 www.reiwo-service.de
-www.roofing.galacticleads.com
-www.sackmeister.de
 www.sindicato1ucm.cl
 www.skyscan.com
 www.sota-france.fr
@@ -700,4 +697,3 @@ yp.hnggzyjy.cn
 yzkzixun.com
 zarzamora.com.mx
 zhivir.com
-ztekkhosting.com
