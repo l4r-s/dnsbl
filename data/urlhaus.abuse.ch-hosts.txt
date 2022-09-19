@@ -19,7 +19,6 @@ admin.classified.pointsource.ng
 adntech.com.bd
 adntel.com.bd
 aduanasctpp.com
-afromerchants.co.zw
 agemn.co.za
 airhobi.com
 akim.org.ar
@@ -71,14 +70,12 @@ bbg.az
 bbia.co.uk
 bboc.com.pe
 beachwood.ug
-bearcatpumps.com.cn
 beeabouttown.com
 belladama.fr
 benconry.com
 benwellgroup.co.uk
 bethelmbcarvada.org
 bhaagya.app
-bigmikesupplies.co.za
 bitlog.shop
 blacengenharia.com.br
 blog.aeromus.com
@@ -138,6 +135,7 @@ connectproducts.com.br
 consultoriabrastec.com.br
 coop-host.com
 coopacredito.com
+corpernaija.com
 corpolevesuplementos.com.br
 corscania.com
 cothdesigns.com
@@ -200,7 +198,6 @@ drjaralampos.com
 drjasonneuro.in
 dukaree.com
 dulhagharnh.com
-dutapp.wisolve.co.za
 e-commerce.saleensuporte.com.br
 e5web.com.br
 eagon.cl
@@ -220,7 +217,6 @@ ergotherapeia-kalamata.gr
 esquiudigital.com
 estiloymadera.com.py
 etisalatbuyback.com
-evashopping.thietkewebsitechuanseo.com
 evetesttech.net
 evoluicursos.com
 excelsales.co.in
@@ -247,17 +243,17 @@ fkd.derpcity.ru
 fmesperanza945.com
 fontise.com
 foto.kathybossa.com
-foundationrepairhoustontx.net
 fountainofvictory.org
 funletters.net
 g.nxxxn.ga
 galeriatiers.com.br
 galileuconcursos.com.br
+gan-n.cloud-downloader.com
 gbsports.theapplab.org
 gccon.in
 ge-ck365.com
 geowf.ge
-gethomevaluerestoration.com
+ggsteal.in
 ghanaenergyawards.com
 glimpsebath.com
 godubai.club
@@ -311,6 +307,7 @@ htech.eti.br
 htownbars.com
 hunggiang.vn
 hytenconstruction.com.au
+imbueautoworx.co.za
 imit.ac.in
 immunotec.network
 imobiles.pk
@@ -335,6 +332,7 @@ jay.diamondrelationscrm.us
 jb-trainingsolutions.com
 jcedu.org
 jcnetsghana.com
+jhayesconsulting.com
 jhocantemperos.com.br
 jitherbilance.in
 jobcity.com
@@ -437,7 +435,6 @@ mysouthbay.com
 mysura.it
 namthaibinh.net
 nazreghadir.ir
-nenlineasv.com
 newdevjyq.devjyq.com
 newgoplus.com
 newkano.com
@@ -522,11 +519,9 @@ purposedesigns.net
 qamaraltaf.com
 qeextension.com
 qmsled.com
-radioboua.com.br
 radiopanamericana.com.ec
 raqmnh.com
 raquelscleaningplus.com
-rccgthebrooks.org
 recordasons.com
 redmag-dz.com
 reifenquick.de
@@ -538,6 +533,7 @@ renton.apttechsol.com
 reshake-official.com
 retailelectricprovider.com
 retailexpertscloud.com
+rgyui.top
 ricambi.fixtofix.it
 riopiscinas.com.br
 rnplanosdesaude.com.br
@@ -549,7 +545,6 @@ rylanderrichter.com
 safetygear.pk
 saffronflourmill.com
 saintjosemariaschool.edu.pe
-sainzim.co.za
 sareeshaper.com
 savonstories.fr
 sbss.com.pk
@@ -582,7 +577,6 @@ soft.110route.com
 solenica.com
 solplan.com.br
 solutiontrackers.com
-spaceframe.mobi.space-frame.co.za
 sparcalabar.lightzillion.com
 spent.com.pl
 spices.com.sg
@@ -649,6 +643,7 @@ twinings.grupoformax.net
 ublretailerdemo.cstdevs.com
 uboholidays.com
 udboxes.com
+ukguk71.ru
 unicorpbrunei.com
 unisoftcc.com
 universalplastoind.com
@@ -657,7 +652,6 @@ update.cg100iii.com
 uxsingh.com
 uylab.org
 uyomall.lightzillion.com
-v.xyzgamev.com
 vaidikdentalcollege.edu.in
 varahidentalclinics.com
 vasarhelyitanyak.hu
@@ -708,6 +702,7 @@ www.crazy97.com
 www.dacui.online
 www.dental.xiaoxiao.media
 www.destinocuenca.com
+www.doctorcasenave.com
 www.elgatoconbotaseventos.es
 www.empowercareer.com
 www.enc-tech.com
