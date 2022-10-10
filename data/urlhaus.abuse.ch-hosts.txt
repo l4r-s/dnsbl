@@ -18,7 +18,6 @@
 502radiotv.com
 559trailerrental.com
 7-24security.com
-a481.moments.abledity.com
 aabtaab.com
 aafoodbroker.com
 aahatec.com
@@ -95,7 +94,6 @@ akhbarplus.com
 akim.org.ar
 akopol.com.br
 alabamabeauty.com.ng
-alapjogvedelmiszakjogasz.hu
 alavancar-rs.com.br
 albaraka.ci
 alberguesagradafamiliaac.com
@@ -113,7 +111,6 @@ alimentoslita.cl
 alinac.ca
 alivestore.in
 alkhabarenews.ma
-alkoslab.com
 allaluminio.com.br
 allanlisboa.com.br
 alliancaria.com
@@ -188,7 +185,6 @@ apmcjamnagar.in
 apmcsk.in
 applaun.ch
 applific.net
-apps.qattanfoundation.org
 apps.saintsoporte.com
 aprendanoruegues.com
 apricitasgroup.com
@@ -264,10 +260,12 @@ b.dowgmeb.com
 b.game2723.com
 b2llab.in
 babycuteplus.com
+backgrounds.pk
 bacommunications.co.ke
 badrvet.com
 baixaja.xyz
 bajoelarbol.pe
+balajiadd.com
 balibuli.hu
 balticcontrolbd.com
 bamassociates.net
@@ -414,7 +412,6 @@ carlaacosta.com
 carpetwagon.com
 cartoriosesp.com.br
 casabiologica.com.br
-casagalvan.com.mx
 casamedeiros.com.br
 casamentotransformado.com
 casamuseoayerbe.co
@@ -480,13 +477,13 @@ ckcuisine.com
 clasescanto.mx
 classicone.com.ng
 clasticon.in
+clasticon.net
 clavomarcas.com.br
 cleancoast.ae
 clearviewwest.com
 cleopatraloungebar.com.br
 clicktimeportal.com
 climatecentral.co.ke
-clinicadeolhossaojose.com.br
 clinicaeitel.com.br
 clinicasbyo.cl
 clipgroups.com
@@ -586,6 +583,7 @@ da.alibuf.com
 dalailaboutiquehotel.com
 dalwindispensary.com
 damianovic.cl
+danaevara.com
 danoblab.com
 dapucharity.com
 dapumusik.com
@@ -636,6 +634,7 @@ desmond-chow.com
 destinosica.com
 destinyaonuoha.com.ng
 destinycandle.com
+destinymc.co.za
 detikbanua.co.id
 dev.sebpo.net
 dev2-admin.ycbnt.net
@@ -789,7 +788,6 @@ emaids.co.za
 emailbyebye.com
 emprendedorimbatible.com
 emprex.com
-en.eredirected.xyz
 enazawa.com
 endirect2.fr
 eneelam.com
@@ -867,6 +865,7 @@ fce.edu.pk
 fedel.pe
 feeb.com.ng
 feneloncostodio.com.br
+fermia.online
 fernandamurca.com.br
 ferragemlisboa.com.br
 ferretomaria.com
@@ -931,7 +930,6 @@ gan-n.cloud-downloader.com
 gananews.com
 gannagyan.com
 garagedoortechnicianinc.com
-garazsepites24.hu
 gatelockemea.net
 gatelookemea.com
 gateworx.net
@@ -1086,7 +1084,6 @@ htech.eti.br
 htownbars.com
 huaxtla.org
 hunggiang.vn
-huntingknives.shop
 hunzaalkaline.com
 husber.com
 hytenconstruction.com.au
@@ -1121,7 +1118,6 @@ ilumibueno.com.br
 imax.com.bd
 imaxhospitals.com
 imbb.co.in
-imbueautoworx.co.za
 imit.ac.in
 immunotec.network
 imobiles.pk
@@ -1163,7 +1159,6 @@ intek.com.vn
 intellect-partners.in
 intera.co.in
 interlog-ng.com
-interweb.al
 intimewebdevelopment.com
 invadelab.cl
 inversionesarmebo.com
@@ -1241,7 +1236,6 @@ justplay.asia
 juugaadmedia.com
 jvhbutor.hu
 jvmotos.com.br
-jxwd.cc
 jyothichitra.com
 k9secure.net
 kadigital.co.uk
@@ -1291,7 +1285,6 @@ konstantinfosolutions.com
 korealinux.net
 kornyezetvedelmiszakjogasz.hu
 kotexservicesolutions.com
-krisbadminton.com
 krslogistica.com.br
 krusevo.gov.mk
 kudukka.in
@@ -1400,9 +1393,7 @@ malakgroupuae.com
 malimbajgogamaharaj.org
 mamamiya137.ru
 mandbpharma.com
-mapyourcareer.co.in
 maquigeral.com.br
-marcaka.ac.ug
 marcelolucenahipnose.com.br
 marcoshueteortega.com
 marcowine.com
@@ -1428,7 +1419,6 @@ mayharbor.com
 mbavenue.com
 mcapublicschool.com
 mck-ci.com
-mcorp.vn
 mcxanalysis.com
 meantforbusinesses.com
 mechbazaar.com
@@ -1483,6 +1473,7 @@ mindsorted.com
 minhacasagv.com.br
 minka.com.mx
 miracleboutique.in
+miriams.vn
 misterson.com
 mistycardamomhills.com
 mistydeblasiophotography.com
@@ -1508,6 +1499,7 @@ moonchannel.co.uk
 moorworld.com
 mplpuritytesting.com
 mpsjaipur.com
+mrcommerce.com.br
 mrplumber.pk
 mrproducts.in
 mrshakesorvetes.com.br
@@ -1532,7 +1524,6 @@ my-eu.info
 myacguysdfw.com
 myadbox.in
 myhelmethoodie.com
-myhobbyjapan.com
 mymproyectosmobiliarios.com
 myphamcuatui.com
 myplace.co.zw
@@ -1577,7 +1568,6 @@ nextdaycustomtees.com
 nextgenhealth.in
 nextprotech.com
 ngoklualyak.org
-ngucocbinhduong.com
 nhorangtreem.com
 nicelectronicgmbh.com
 nienkz.nl
@@ -1737,7 +1727,6 @@ pioneerhomearch.com
 pipizmusic.com
 pivot-to-virtual.com
 pixccc.com
-pixelparasite.com
 placeredes.com.br
 planetaproduccionesec.com
 plantscosmeticos.com.br
@@ -1913,6 +1902,7 @@ rukenalmyas.com
 rupayanpropertyfair.com
 rvfibre.com
 rvscas.ac.in
+rxquickpay.com
 rylanderrichter.com
 s3engenharia.com
 sa-new.com
@@ -1962,7 +1952,6 @@ sbss.com.pk
 scaleforengineering.com
 scglobal.co.th
 schoolofspanish.co.za
-scientific.pk
 scireveal.com
 scottsmongoliankombucha.com
 scr.gen.tr
@@ -2074,7 +2063,6 @@ soporteindustrialmexico.com
 sottoilcielodifred.it
 soulproduction.co.id
 soundhealingjourneys.com.au
-soundigital.com
 sourtoukaki.gr
 sousafilho.com
 soylajefa.cl
@@ -2123,13 +2111,11 @@ street1101.com
 stsconsulting.com.br
 studebakerrestorationltd.com
 studiodentisticolambiase.it
-studioteamztonne.com.br
 studyberg.com
 stylemasterhomes.com.au
 styleresumes.com
 sublikeviet.net
 subtechno.com
-successwithtarun.com
 suedamerikatour.com
 sugamphotoalbum.com
 sugarlandairconditioningrepair.com
@@ -2212,7 +2198,6 @@ tesouroencantado.com.br
 tessarofurniture.com
 test.fontecsys.net
 test.typoten.com
-texalpha.com
 textglow.net
 tfl-hd.com
 tgvtech.net
@@ -2258,7 +2243,6 @@ timehunter.co
 timjat.com
 tipsbyexperts.com
 tiptoptoons.com
-tirnanognewbridge.com
 tjclimatizacao.com.br
 tmes.ae
 tmportservice.com
@@ -2367,7 +2351,6 @@ valdelima.pt
 valledelencino.mx
 valuekidz.com
 vasarhelyitanyak.hu
-vaudou.org
 vbbc.co.in
 vde-autocheck.com.ng
 vdevelop.ch
@@ -2434,7 +2417,6 @@ web.geomegasoft.net
 webcode-sy.com
 webexpertize.com
 webfever.in
-webhoanggia.com
 webs-up.com
 websound.ru
 webstyle.cc
@@ -2479,7 +2461,6 @@ wshsoft.company
 wslghana.com
 www.abelcare.co.uk
 www.agies.org
-www.alertsecurities.in
 www.almoeqatar.com
 www.ara-choob.com
 www.arkidecture.com
@@ -2495,7 +2476,6 @@ www.crazy97.com
 www.dacui.online
 www.dental.xiaoxiao.media
 www.destinocuenca.com
-www.doctorcasenave.com
 www.elgatoconbotaseventos.es
 www.empowercareer.com
 www.enc-tech.com
@@ -2522,7 +2502,6 @@ www.quadrantmeasurements.com
 www.reacredit.com.br
 www.reifenquick.de
 www.reiwo-service.de
-www.roofing.galacticleads.com
 www.sackmeister.de
 www.savesucpnys.xyz
 www.sindicato1ucm.cl
