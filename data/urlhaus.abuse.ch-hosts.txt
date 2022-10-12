@@ -107,7 +107,6 @@ aegis.qa
 afakshop.com
 afiliadoprimeiravenda.com.br
 afiliadoshop.com.br
-afonsocelso.com
 africatravelandtours.com
 afromerchants.co.zw
 aftertherains.in
@@ -413,6 +412,7 @@ b2llab.in
 babycuteplus.com
 babysutra.in
 babytastes.com.au
+backgrounds.pk
 bacommunications.co.ke
 badrvet.com
 bahiafalcao.com.br
@@ -486,6 +486,7 @@ bhumipolymers.in
 bianohub.com
 bibliasacco.com
 bigbrotherkush.com
+bigmikesupplies.co.za
 biharscholashiptest.com
 biktahai.com.pk
 biktahai2Ecom.pk
@@ -520,6 +521,7 @@ blox.com.br
 bluebirdpoolleaks.com
 bluefusionmedia.com
 bluemoonwritings.com
+bluepetals.in
 blvckbundoo.ca
 blvckbundoo2Eca
 bminfotech.co.in
@@ -528,6 +530,7 @@ bmsecon.in
 bmshop.com.pe
 bmss.org.in
 bmwmodulszerviz.hu
+boatnet.uk
 bobcatminer-store.e-mantra.in
 bobcatnepal.com
 bodybarrefitness.ca
@@ -821,7 +824,6 @@ coralfishtravel.com
 coreh.ec
 cornerstoneschoolsng.com
 cornucopiarh.com.br
-corpernaija.com
 corpolevesuplementos.com.br
 corporacionfull.com
 corporacionquinua.org
@@ -959,7 +961,6 @@ desmond-chow.com
 destinosica.com
 destinyaonuoha.com.ng
 destinycandle.com
-destinymc.co.za
 detikbanua.co.id
 detoxcentre.in
 dev.sebpo.net
@@ -1164,7 +1165,6 @@ eh.net.sa
 ehsanenterprises.com
 eiraplay.io
 ekologix.it
-elcorrillodemao.com
 eleclim.com.ar
 electrocomiquitos.com
 electrodinam.com.ar
@@ -1177,7 +1177,6 @@ eleplom.com
 elestadoitr.com
 elevaconsultores.com
 elevesuarenda.com
-elioseng.com
 eliteboxing.com.ph
 elites.com
 ellenkicet.ac.in
@@ -1399,7 +1398,6 @@ franciscosousamentor.com.br
 franclei.com.br
 francorplatam.com
 franz.pe
-freedombusinessclub.com
 freedomdispatch.net
 freelancepars.com
 freighforward.com
@@ -1436,6 +1434,7 @@ gameempire2Ecl
 gameofcity.hu
 gameonway.com
 gamestarted.com
+gan-n.cloud-downloader.com
 gananews.com
 gannagyan.com
 garagedoortechnicianinc.com
@@ -1622,7 +1621,6 @@ heenshop.com
 heftanenergy.com
 hegodev.com
 heladiwatours.com
-help4mind.co.uk
 help4mind.com
 helpinghands2u.org
 heltur.com.br
@@ -1760,6 +1758,7 @@ imoveisreichert.com.br
 impeccablepublishingng.com
 imperiodasespumas.com.br
 imperiomodas3m.com
+impormicros.com
 importeka.com
 importexportdelivery.com
 imprentaprintexpress.com
@@ -1779,7 +1778,6 @@ indo-teknik.co.id
 indojobs.co
 indomangosteen.com
 indonesia-coco.com
-indonesias.me
 indopalm.co.id
 indotel.co.id
 indrasbikaner.com
@@ -1968,6 +1966,7 @@ karaokeluzysonido.com.mx
 karas.ma
 karatepretoria.co.za
 karer.by
+karimgousa.ug
 karlot.edu.pk
 kashmirhikes.com
 kastham.in
@@ -2071,6 +2070,7 @@ lbsgcm.ac.in
 lbsmttcollege.com
 lcdtv410.tw
 lcetldh.com
+lceventos.net
 lcpbuldana.ac.in
 lcsciencecommunity.com
 leadershipschool.edu.pe
@@ -2338,6 +2338,7 @@ mmglobalgroups.com
 mncarteam.com
 mnpcbd.com
 moarkgcc.com
+moas.sc.ke
 modart-paris.ir
 modernajyoti.com
 modularhomes.net
@@ -2383,7 +2384,6 @@ mulkiyet-gayrimenkul.com
 mulmatdol.com
 multtengenharia.com.br
 multyflex.com.br
-mumgee.co.za
 munaqueretaro.mx
 mundoemalerta.com
 muranoresidencial.mx
@@ -2392,9 +2392,9 @@ musicc.app
 musiqhub-bop.co.nz
 mutahhar.pk
 mutualtrustco.com
+mwu.com.mx
 my-assistant.net
 myacguysdfw.com
-myadbox.in
 myfarmdata.io
 myfreshline.com
 myhabro.com
@@ -2404,6 +2404,7 @@ myma3ak.com
 mymproyectosmobiliarios.com
 mynep.in
 mynewsmedia.in
+myphamcuatui.com
 myplace.co.zw
 myshipper.in
 mysoreleads.com
@@ -2453,7 +2454,6 @@ netway2Emx
 networkcapital.com.br
 networkcapital2Ecom.br
 networkingeveryday.com
-networkwheels.co.za
 newdevjyq.devjyq.com
 newgoplus.com
 newkano.com
@@ -2653,7 +2653,6 @@ paracaidismomonterrey.nl
 parallel.rockvideos.at
 parbill.co.zw
 parentingyard.com
-parketematiko.com
 parking1.samayiot.com
 parkonlineart.com
 parkonlineart2Ecom
@@ -2698,6 +2697,7 @@ personalloansforbadcredit.net
 pes-engr.com
 petodorstainremoval.com
 petparadise.biz
+petrasolucoes.com
 petrosglobal.com
 pets-smarts.com
 pflegeagenturvelcota.ro
@@ -3649,6 +3649,7 @@ unicorpbrunei.com
 unimarkgroup.com
 uniqc.uk
 uniquesublime.com
+unisoftcc.com
 unistarmart.com
 univers2femmes.com
 universalfxtradezone.com
@@ -3823,7 +3824,6 @@ western-storage.com
 westernbioorganics.com
 westwindltd.com.ng
 wew.com.ng
-wewilltoptheworld.top
 wfsfunds.com
 wfsfunds2Ecom
 whatelles.nl
@@ -3831,6 +3831,7 @@ wholesalecityllc.com
 wholesalegroceriesng.com
 whp.pt
 widi.com.ng
+widowrelief.org
 wifak-investments.com
 wijsneusmedia.nl
 wildnights.co.uk
@@ -3934,6 +3935,7 @@ xgsfirewall.com
 xn----7sbhgfcdscaa3cdd6dq3e3dvf.xn--p1ai
 xn--cheggl-videos-fr-gastronomie-g7c.de
 xpresstradeline.com
+xt.lykj988.com
 yahnature.com
 yamizo.in
 yantech.ma
