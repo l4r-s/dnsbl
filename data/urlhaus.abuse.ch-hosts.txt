@@ -396,7 +396,6 @@ appsfactor.co
 appshades.tk
 appslink-me.com
 aprendanoruegues.com
-aprendeconmireia.com
 apricitasgroup.com
 aputec.com
 apysolution.com
@@ -598,6 +597,7 @@ bdeducationnews.com
 bdtop.com.br
 bdtwa.com
 beachlandsbrazil.com
+beachwood.ug
 beautys.ir
 bebele.ro
 bedmaster.nl
@@ -966,7 +966,6 @@ citychiefnews.com
 citycont.com
 citypark.tn
 citytaxiservice.co.in
-civcraft.net
 ckcuisine.com
 clairefountain.com
 clamorpelasnacoes.com.br
@@ -1079,6 +1078,7 @@ cordobacup.com
 coreh.ec
 cornerstoneschoolsng.com
 cornology.com
+corpernaija.com
 corpolevesuplementos.com.br
 corporacionface.org
 corporacionfull.com
@@ -1361,6 +1361,7 @@ dovefood.bi
 dowerimpex.co.za
 down.pcclear.com
 download.doumaibiji.cn
+download.pdf00.cn
 downloads.bcweb.org.uk
 downloadseriesmovie.top
 dq-cloud.com
@@ -1775,7 +1776,6 @@ fmhdsm.com.ng
 fmlgpersonalinjurylaw.com
 fmlinvestimentos.com.br
 fonestech.co.uk
-fontise.com
 foodburma.com
 foodcibus.com
 foodinar.co.za
@@ -1811,6 +1811,7 @@ frontburners.io
 frs.co.zw
 frypangraphics.com
 fssaihelpdesk.com
+ftp.agir-santeinternationale.com
 fullcbdproductsreviews.com
 fullspectrumcbdhemps.com
 fullstacknir.com
@@ -1851,7 +1852,6 @@ gazetadecarasseverin.ro
 gbconsultants.com.pk
 gbgrouplink.xyz
 gbsports.theapplab.org
-gcbassa.org
 gccon.in
 gccpaints.com
 gccvfs.com
@@ -1972,7 +1972,6 @@ greenhillsacademy.org
 greenleafsolutions.in
 greenlizard.co.za
 greentechmali.com
-greenwolfautomation.ga
 grensincidenten.be
 grifolaconfianza.com
 grimmcm.com
@@ -2257,6 +2256,7 @@ ilthost.com
 imabathinda.com
 imageclub.in
 imagesrising.com
+imbueautoworx.co.za
 imcardio.com.br
 imhgrp.com
 imit.ac.in
@@ -2556,7 +2556,6 @@ kevinley.com
 keyesforsteuben.com
 khalsatravelpointamritsar.com
 khateebecom.ml
-khktv24.com
 khmchamorshi.in
 khubchandaniandco.com
 kiaadesigner.com
@@ -2631,7 +2630,6 @@ lalomaresidences.com
 lalunanelsole.it
 lamaisondhector.fr
 lamaisonnette.com.ng
-lameguard.ru
 lamodacustomtailor.com
 lanalu.net
 lanambulancias.com
@@ -2792,6 +2790,7 @@ luxurydestinations.in
 luzasol.com.br
 lwsoundtrackstore.com
 ly-o.fr
+ly.yjlianyi.top
 lysun.vn
 m-a-consultants.com
 m4mart.pk
@@ -2805,7 +2804,6 @@ macmor-media.com.au
 macyviewhotels.com
 mada-bizdev.mg
 madatours.mg
-madicon.co.za
 madison-english-academy.com
 madoeishq.com
 magicbt.com
@@ -3201,6 +3199,7 @@ nerude.org.np
 netaqsoft.net
 netbee.co
 netbrain.rw
+networkwheels.co.za
 neuroexperts.in
 neurofeedback.rio.br
 neuronimbusinteractive.com
@@ -3308,6 +3307,7 @@ official-website-offers.com
 oiatende.com.br
 oincdigital.cl
 okruzenje.com
+okwydg05.top
 olamtov.com
 olanesti-cazare.ro
 old2.hr.ps
@@ -4254,6 +4254,7 @@ solarempires.com.au
 solarrunapp.com.au
 soldadora-smart.mx
 soldimixprofesional.pe
+solenica.com
 solidsalt.com
 solidstoneinterlocking.com
 solitaireconstruction.co.ke
@@ -4316,7 +4317,6 @@ srmcbioskillslab.com
 srnrecycling.com
 srp.com.np
 srslogicare.com
-ss.monita.co.id
 ssagrofoods.com
 sscomfortcabs.com
 sshd.run
@@ -5013,7 +5013,6 @@ webboxrep.com
 webcard.in
 webdesignhunt.com
 webdesignlegend.co.uk
-webhoanggia.com
 webs-up.com
 websound.ru
 webstyle.cc
@@ -5105,6 +5104,7 @@ www.cenomp.com.br
 www.cesasin.com.ar
 www.charmingsoftech.com
 www.chawkyfrenn.com
+www.chemsky.tn
 www.chez-l-habitant.com
 www.cisnc.it
 www.corpandina.com.pe
@@ -5117,6 +5117,7 @@ www.empowercareer.com
 www.enc-tech.com
 www.fcstradesolutions.com
 www.fixstudio.co.kr
+www.godfathersjunk.com
 www.hebgb.top
 www.hellojohnwebb.com
 www.hotelmourya.com
@@ -5157,6 +5158,7 @@ www.toplevel.com.br
 www.tractorandinas.com
 www.TradeInsights.net
 www.universalcustomdesigns.com
+www.vinyz.com
 www.vivacuscoperu.com
 www.websound.ru
 www.weinsteincounseling.com
