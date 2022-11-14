@@ -6,7 +6,6 @@
 1kdeals.in
 204areacode.com
 247bdtv.com
-24karatfoods.com
 263brand.co.zw
 33rdderryscouts.com
 360-ts.com
@@ -239,7 +238,6 @@ as-albahri.net
 asadmiraj.xyz
 asbcluj.ro
 asgceilingsolutions.com
-ashdrop.in
 ashokasteel.in
 ashrafwoodtraders.com
 asiaexpatguides.com
@@ -254,6 +252,7 @@ associacaojeruel.org
 asteri-tech.com
 astonpolyplast.com
 astrategy-marketing.com
+astrealegal.com
 asturiaadm.com.br
 astvafrica.com
 asu.com.vn
@@ -370,7 +369,6 @@ bizdemo.xyz
 bkonnect.co.za
 blacktequila.com.br
 blangkonstudio.com
-blessingscomputereducations.com
 blitzbud.com
 blitzbudprojects.com
 bllackdiamondkloset.com
@@ -618,14 +616,12 @@ couponsfriends.com
 coupsdecoeur.eu
 courobahia.com.br
 cpcwiki.de
-cprindia.in
 crackload.net
 cracowglobal.com
 crashedff.xyz
 cravencontent.com
 crchomeremodeling.com
 creativesys.com.sa
-crecerco.com
 cred-finance.com
 creditportalboasn.com
 crescisocial.com
@@ -715,7 +711,6 @@ devmarketing.in
 dexyi.com.br
 dhakaunited.com
 dhaliwalhospital.in
-dharamshalataxi.in
 dhillonbrothersexpress.com
 dhillonbrotherstransport.com
 dhillonbrotherstransportation.com
@@ -917,7 +912,6 @@ everesttandoori.com.au
 evergreencounty.com
 evil-eye-design.de
 evoluicursos.com
-evotechug.com
 ewsindia.net
 exceloptionpricing.com
 excelrestapi.com
@@ -984,7 +978,6 @@ finipillows.com
 finux.in
 fioriapicola.com.mx
 firstwithnewtrends.com
-fitfun.ir
 fixup.co.in
 flamingoresidency.com
 flareitsolution.com
@@ -1193,6 +1186,7 @@ hey-tv.com
 heyatek.com
 hfshcalpha.com
 hhc.com.sa
+hhe.eiwaggff.com
 highschoollacrosse.com
 higrowth.ca
 hiims.in
@@ -1932,7 +1926,6 @@ passiontiles.com
 pataphysics.net.au
 patch2.99ddd.com
 pathankottaxi.co.in
-pathankottaxihire.com
 patricialeonardelli.com.br
 patrioticpyro.com
 payamtahrir.ir
@@ -2063,7 +2056,6 @@ qmsled.com
 qsmart.cl
 qtamed.com
 qualihouse.com.br
-qualitystruct.com
 quarrysite.org
 quickloansbadcredit.org
 quietasamouseofficial.com
@@ -2097,7 +2089,6 @@ reach99.co
 readmehow.com
 readybazar.com
 realgrowup.com
-realpowergroup.com.br
 realtechfueldispenserbd.com
 realtimefantasywrestling.com
 receipy.com
@@ -2133,7 +2124,6 @@ retailexpertscloud.com
 revdiscos.ie
 revgrowthconversion.com
 revitrealestate.com
-rewanto.com
 rfstechnologies.com.bd
 ribis.com.br
 ricambi.fixtofix.it
@@ -2218,13 +2208,11 @@ samarthhospitals.com
 samtelavionics.com
 sandwitsh.com
 sangifashions.com
-sanignaciodeloyola3jm.edu.bo
 santabarbarasch.com
 santorinibk.com
 santoshpolymers.com
 santubonggadget.com
 sarawakroadtax.com
-sardarjitravels.in
 sareeshaper.com
 sarez.ir
 sartuntech.com.ng
@@ -2295,7 +2283,6 @@ shikshapay.in
 shilpafoods.com
 shingroup.com
 shipminttracking.net
-shivanahills.com
 shohoje.com
 shop-iptv.com
 shop.mediasova.ru
@@ -2505,7 +2492,6 @@ tecnoprotec.cl
 tecnosise.com
 tecsaa.com
 tecsumex.com
-teenshop.com.br
 tekbiz.al
 telecableplayadelcarmen.tv
 telmarufino.com.br
@@ -2643,10 +2629,10 @@ udupirestaurant.qa
 ugconcept.com
 uglindia.com
 ukguk71.ru
+ulux.com.br
 unabcec.co.ug
 unclebenztv.xyz
 ungguljayasakti.co.id
-unhasr.com
 unicomg.com
 unicorpbrunei.com
 unicorptravel.com
@@ -2728,7 +2714,6 @@ vipulnirman.com
 vipysknik.by
 virtuacenter.com.br
 vishalt.com
-vitanuovacr.com
 vitrarte.com.mx
 vittaflora.com.br
 vivasurplus.com
@@ -2888,7 +2873,6 @@ xpelmontana.com
 xplorebuddy.com
 xpresstradeline.com
 xt.lykj988.com
-xtralink.my
 yamizo.in
 yanfang.xyz
 yantech.ma
